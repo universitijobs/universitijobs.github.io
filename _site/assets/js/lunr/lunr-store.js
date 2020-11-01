@@ -178,4 +178,172 @@ var store = [{
         "tags": ["Kuala Lumpur"],
         "url": "http://localhost:4000/jobs/tutor-clinical-skils-simulation-centre-imu-education-sdn-bhd-410567/",
         "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Assistant Teacher cum Daycare",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Assistant Teacher cum Daycare position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Islamic Junior CambridgeJob DescriptionPassionate and enthusiastic in teachingLove children...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/asistant-teacher-cum-daycare-jora-jobs-41483/",
+        "teaser": null
+      },{
+        "title": "Malaysian Association for  the Blind Vacancies Audio Production Instructor",
+        "excerpt":"Malaysian Association for the Blind is looking for new potential candidates to fill in for Audio Production Instructor position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at least Diploma/Advanced/Higher/Graduate Diploma...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/audio-production-instructor-malaysian-asociation-for-the-blind-40607/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Centre Principal (Preschool)",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Centre Principal (Preschool) position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Kidz Treehouse (Malaysia)Kidz Treehouse is expanding to Malaysia and we...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/centre-principal-preschol-jora-jobs-415125/",
+        "teaser": null
+      },{
+        "title": "Malaysian Association for  the Blind Vacancies Computer System Instructor",
+        "excerpt":"Malaysian Association for the Blind is looking for new potential candidates to fill in for Computer System Instructor position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at least Diploma/Advanced/Higher/Graduate Diploma...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/computer-system-instructor-malaysian-asociation-for-the-blind-406076/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies E-learning Freelancers",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for E-learning Freelancers position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Vschool TrendCandidate must possess at least a Diploma, Advanced/Higher/Graduate Diploma, Bachelor's...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/e-learning-frelancers-jora-jobs-415090/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Early Childhood Education Assessing Officer",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Early Childhood Education Assessing Officer position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Geomatika University CollegeMengendalikan dan menyediakan latihan termasuk menyediakan...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/early-childhod-education-asesing-oficer-jora-jobs-413715/",
+        "teaser": null
+      },{
+        "title": "IMU Education Sdn Bhd Vacancies Executive, Student Services",
+        "excerpt":"IMU Education Sdn Bhd is looking for new potential candidates to fill in for Executive, Student Services position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Responsibilities:FINANCIAL SUPPORTTo be the main contact person...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/executive-student-services-imu-education-sdn-bhd-41749/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Faculty Dean",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Faculty Dean position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Geomatika University CollegeTO LEADTo lead the Faculty to achieve its goal...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/faculty-dean-jora-jobs-415131/",
+        "teaser": null
+      },{
+        "title": "Worldview Edu Centre Sdn Bhd Vacancies Full-Time / Part-Time Teachers",
+        "excerpt":"Worldview Edu Centre Sdn Bhd is looking for new potential candidates to fill in for Full-Time / Part-Time Teachers position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights ---A nice environment and good office...","categories": ["Jobs"],
+        "tags": ["Puchong"],
+        "url": "http://localhost:4000/jobs/ful-time-part-time-teachers-worldview-edu-centre-sdn-bhd-41349/",
+        "teaser": null
+      },{
+        "title": "Piaget Academy Schools (Indonesia) Vacancies Further Education cum Career Guidance Counselor (Indonesia)",
+        "excerpt":"Piaget Academy Schools (Indonesia) is looking for new potential candidates to fill in for Further Education cum Career Guidance Counselor (Indonesia) position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description This position requires relocation...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/further-education-cum-carer-guidance-counselor-indonesia-piaget-academy-schols-indonesia-educati/",
+        "teaser": null
+      },{
+        "title": "Agensi Pekerjaan Adecco Personnel Sdn Bhd Vacancies Head of Admissions, Marketing and Customer Service ( Education Industry)",
+        "excerpt":"Agensi Pekerjaan Adecco Personnel Sdn Bhd is looking for new potential candidates to fill in for Head of Admissions, Marketing and Customer Service ( Education Industry) position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job...","categories": ["Jobs"],
+        "tags": ["Ipoh"],
+        "url": "http://localhost:4000/jobs/head-of-admisions-marketing-and-customer-service-education-industry-agensi-pekerjan-adeco-personel-sdn-bhd-414627/",
+        "teaser": null
+      },{
+        "title": "UOW Malaysia KDU Penang University College Vacancies Head of Department (School of Business)",
+        "excerpt":"UOW Malaysia KDU Penang University College is looking for new potential candidates to fill in for Head of Department (School of Business) position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Outstanding career development...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/head-of-department-schol-of-busines-uow-malaysia-kdu-penang-university-colege-41429/",
+        "teaser": null
+      },{
+        "title": "SEGi College Penang Vacancies Head of School - Business and Accountancy",
+        "excerpt":"SEGi College Penang is looking for new potential candidates to fill in for Head of School - Business and Accountancy position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Responsibilities:To oversee and coordinate teaching,...","categories": ["Jobs"],
+        "tags": ["Penang"],
+        "url": "http://localhost:4000/jobs/head-of-schol-busines-and-acountancy-segi-colege-penang-414829/",
+        "teaser": null
+      },{
+        "title": "SEGi College Penang Vacancies Head of School , IT (SEGi College Penang)",
+        "excerpt":"SEGi College Penang is looking for new potential candidates to fill in for Head of School , IT (SEGi College Penang) position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Responsibilities :To overseee and...","categories": ["Jobs"],
+        "tags": ["Penang","Selangor"],
+        "url": "http://localhost:4000/jobs/head-of-schol-it-segi-colege-penang-segi-colege-penang-414826/",
+        "teaser": null
+      },{
+        "title": "OTC Training Centre Sdn Bhd Vacancies Internship for Business Administration Students",
+        "excerpt":"OTC Training Centre Sdn Bhd is looking for new potential candidates to fill in for Internship for Business Administration Students position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description -Provide reporting document to management&#160;&#160;-To...","categories": ["Jobs"],
+        "tags": ["Gelugor"],
+        "url": "http://localhost:4000/jobs/internship-for-busines-administration-students-otc-training-centre-sdn-bhd-415175/",
+        "teaser": null
+      },{
+        "title": "Midaz Orion Sdn Bhd Vacancies Operation Executive",
+        "excerpt":"Midaz Orion Sdn Bhd is looking for new potential candidates to fill in for Operation Executive position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Description:Daily performance monitoring of Sales teamGenerating summary report...","categories": ["Jobs"],
+        "tags": ["Petaling Jaya"],
+        "url": "http://localhost:4000/jobs/operation-executive-midaz-orion-sdn-bhd-413423/",
+        "teaser": null
+      },{
+        "title": "CALLA BEAUTY SDN. BHD. Vacancies PERSONAL CHILDCARE",
+        "excerpt":"CALLA BEAUTY SDN. BHD. is looking for new potential candidates to fill in for PERSONAL CHILDCARE position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Personal Childcare Job Purpose:Childcare workers attend to the basic...","categories": ["Jobs"],
+        "tags": ["Cheras"],
+        "url": "http://localhost:4000/jobs/personal-childcare-cala-beauty-sdn-bhd-409359/",
+        "teaser": null
+      },{
+        "title": "Piaget Academy Schools (Indonesia) Vacancies Pri/Sec Teachers (Soccer Coach)",
+        "excerpt":"Piaget Academy Schools (Indonesia) is looking for new potential candidates to fill in for Pri/Sec Teachers (Soccer Coach) position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description This position requires relocation to Indonesia (Jakarta...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/pri-sec-teachers-socer-coach-piaget-academy-schols-indonesia-teacher/",
+        "teaser": null
+      },{
+        "title": "KLC International Institute Pte Ltd Vacancies PROGRAMME ADMINISTRATOR",
+        "excerpt":"KLC International Institute Pte Ltd is looking for new potential candidates to fill in for PROGRAMME ADMINISTRATOR position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description ResponsibilitiesTo provide quality and customer-oriented services to our...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/programe-administrator-klc-international-institute-pte-ltd-e-admin/",
+        "teaser": null
+      },{
+        "title": "Monash University Malaysia Vacancies Research Fellow",
+        "excerpt":"Monash University Malaysia is looking for new potential candidates to fill in for Research Fellow position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description The OpportunityIf you are passionate about tackling core challenges facing...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/research-felow-monash-university-malaysia-414362/",
+        "teaser": null
+      },{
+        "title": "Company Confidential Vacancies Sales & Marketing Executive",
+        "excerpt":"Company Confidential is looking for new potential candidates to fill in for Sales &amp; Marketing Executive position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Position SummaryThe position focuses on driving student recruitment to...","categories": ["Jobs"],
+        "tags": ["Johor"],
+        "url": "http://localhost:4000/jobs/sales-marketing-executive-company-confidential-414947/",
+        "teaser": null
+      },{
+        "title": "Piaget Academy Schools (Indonesia) Vacancies School Counsellor in International School (Indonesia)",
+        "excerpt":"Piaget Academy Schools (Indonesia) is looking for new potential candidates to fill in for School Counsellor in International School (Indonesia) position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description This position requires relocation to...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/schol-counselor-in-international-schol-indonesia-piaget-academy-schols-indonesia-ounsel/",
+        "teaser": null
+      },{
+        "title": "HKBN JOS (Malaysia) Sdn Bhd Vacancies Senior Executive, Training and Organization Development (TEx Ambassador)",
+        "excerpt":"HKBN JOS (Malaysia) Sdn Bhd is looking for new potential candidates to fill in for Senior Executive, Training and Organization Development (TEx Ambassador) position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description As you...","categories": ["Jobs"],
+        "tags": ["Petaling Jaya"],
+        "url": "http://localhost:4000/jobs/senior-executive-training-and-organization-development-tex-ambasador-hkbn-jos-malaysia-sdn-bhd-41419/",
+        "teaser": null
+      },{
+        "title": "Shattuck St. Mary's Forest City International School Vacancies Shadow Aide",
+        "excerpt":"Shattuck St. Mary's Forest City International School is looking for new potential candidates to fill in for Shadow Aide position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Career AdvancementGood Working EnvironmentFlexible working hours...","categories": ["Jobs"],
+        "tags": ["Johor"],
+        "url": "http://localhost:4000/jobs/shadow-aide-shatuck-st-mary-s-forest-city-international-schol-41340/",
+        "teaser": null
+      },{
+        "title": "J&T Express (Malaysia) Sdn Bhd - Northern Selangor Vacancies Trainer",
+        "excerpt":"J&amp;T Express (Malaysia) Sdn Bhd - Northern Selangor is looking for new potential candidates to fill in for Trainer position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Responsibilities :&#160;Plans, co-coordinates and directs training...","categories": ["Jobs"],
+        "tags": ["Cheras"],
+        "url": "http://localhost:4000/jobs/trainer-j-t-expres-malaysia-sdn-bhd-northern-selangor-413793/",
+        "teaser": null
+      },{
+        "title": "CoMetroKL Capital & Private Equity PLT Vacancies Training Executive",
+        "excerpt":"CoMetroKL Capital &amp; Private Equity PLT is looking for new potential candidates to fill in for Training Executive position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights We offer Performance Bonus and Medical Benefits...","categories": ["Jobs"],
+        "tags": ["Petaling Jaya"],
+        "url": "http://localhost:4000/jobs/training-executive-cometrokl-capital-private-equity-plt-41396/",
+        "teaser": null
+      },{
+        "title": "OAG Group of Companies Vacancies Training Executive",
+        "excerpt":"OAG Group of Companies is looking for new potential candidates to fill in for Training Executive position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job RequirementsCandidate must posses at least Bachelor Degree in...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/training-executive-oag-group-of-companies-439453/",
+        "teaser": null
+      },{
+        "title": "XOX Management Services Sdn Bhd Vacancies XOX MANAGEMENT TRAINEE PROGRAM (GROUP CEO OFFICE)",
+        "excerpt":"XOX Management Services Sdn Bhd is looking for new potential candidates to fill in for XOX MANAGEMENT TRAINEE PROGRAM (GROUP CEO OFFICE) position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job. Job Description The XOX Management...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/xox-management-traine-program-group-ceo-ofice-xox-management-services-sdn-bhd-412406/",
+        "teaser": null
       }]
