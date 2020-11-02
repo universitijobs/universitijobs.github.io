@@ -1,0 +1,27 @@
+---
+title: "HKBN JOS (Malaysia) Sdn Bhd Vacancies Senior Executive, Training and Organization Development (TEx Ambassador)" 
+category: Jobs 
+date: 2020-11-02 
+excerpt: "HKBN JOS (Malaysia) Sdn Bhd is currently looking for suitable person to fill in the Senior Executive, Training and Organization Development (TEx Ambassador) which positioned at Petaling Jaya" 
+tags: [Petaling Jaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>HKBN JOS (Malaysia) Sdn Bhd is looking for new potential candidates to fill in for <b>Senior Executive, Training and Organization Development (TEx Ambassador)</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+ <div><div><h4>Job Description</h4></div><div><div><span><div><div><div><div>As you are appointed as the Talent Excellence (TEx) Ambassador of HKBN....</div><div>What opportunities and benefits will you have?</div><ul><li><div>Be the key member in driving 1-HKBN Talent Culture</div></li><li><div>Great regional exposure to expand your professional network in global 1-HKBN scale</div></li><li><div>Lots of exciting projects ahead. Excellent opportunities to develop and demonstrate&#160; innovation, creativity and communication skill</div></li></ul><div>What efforts you need to make for this role ?</div></div><ul><li>Act as local Ambassador in Malaysia region, report to Talent Engagement Team directly&#160;</li><li>Enhance Talent communications and relations to create Talent engagement</li><li>Partner with business units to fulfil the Talent development needs for business growth</li><li>Localize and drive group Talent Engagement initiative and program</li><li>Energetic, positive and creative</li></ul><div><div>Let&#8217;s check if you are/have&#8230;</div></div></div><ul><li>Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree</li><li>Preferably with more than 2 years working experiences in Senior Executive specialized in Training &amp; Development or equivalent.</li><li>Passionate in driving company's Talent Culture.</li><li>Young, energetic &amp; creative.</li><li>Sound business acumen to build rapport and deliver results with internal and external stakeholders.</li><li>Excellent written and spoken English, Mandarin and Cantonese (Mandatory).</li><li>Excellent communication, presentation and hosting LIVE events skills&#160;</li></ul></div></span></div></div></div> 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div><strong>HKBN JOS</strong></div>
+<div>With over 60 years of experience in Asia, HKBN JOS is a systems integrator, solutions provider and technology consultancy with deep industry knowledge and an exceptional ability to execute. Comprising 2,000+ IT professionals from nine offices across Asia&#8217;s major business hubs in mainland China, Hong Kong, Macau, Malaysia and Singapore, HKBN JOS aims to improve the performance of businesses and governments across the region by applying the best technology to address their challenges. HKBN JOS has extensive experience across a range of industries in Asia, and core capabilities in artificial intelligence, big data, cloud computing, enterprise applications, enterprise security, internet of things (IoT), mobility and next generation infrastructure.</div>
+<div>HKBN JOS is a subsidiary of HKBN Group (&#8220;HKBN&#8221; or &#8220;The Group&#8221;). HKBN Group is a leading integrated telecom and technology solutions provider. Headquartered in Hong Kong with operations spanning across Hong Kong, Singapore, Malaysia, mainland China and Macau, the Group is a leading integrated telecom and technology solutions provider.</div>
+<div>At HKBN, we are a diverse group of Talents who share a common belief that businesses should play a more significant role in making society better. Wherever we operate, this common thread links us to embrace &#8220;Make our Home a Better Place to Live&#8221; as HKBN&#8217;s core purpose.</div>
+<div>Setting us apart, HKBN is managed by Co-Owners (majority of our supervisory-and-above-level Talents) who have invested their own savings to buy the shares of HKBN Ltd. or invest a portion of their salary towards a common KPI for our beyond-Hong Kong business. By having &#8216;skin-in-the-game&#8217; interest alignment with the company, Co-Owners will share the returns if the company KPIs are achieved or exceeded. Through this unique dynamic of accountability and interest alignment, we&#8217;re motivated to scale new heights for customers every day. In addition, HKBN also takes great pride in developing our Talents into a competitive advantage.</div>
+<div>For more information, please visit&#160;https://www.hkbn.net/new/en/about-us.shtml&#160;about HKBN Group and&#160;www.jos.com&#160;about HKBN JOS.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Petaling Jaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/senior-executive-training-and-organization-development-tex-ambassador-4414119?jobId=jobstreet-my-job-4414119&sectionRank=28&token=0~c1ef67b1-98e9-4a58-8956-7191eb4b39b4&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
