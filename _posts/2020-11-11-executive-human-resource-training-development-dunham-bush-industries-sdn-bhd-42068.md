@@ -1,0 +1,29 @@
+---
+title: "Dunham Bush Industries Sdn Bhd Vacancies Executive Human Resource (Training & Development)" 
+category: Jobs 
+date: 2020-11-11 
+excerpt: "Dunham Bush Industries Sdn Bhd is currently looking for suitable person to fill in the Executive Human Resource (Training & Development) which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Dunham Bush Industries Sdn Bhd is looking for new potential candidates to fill in for <b>Executive Human Resource (Training & Development)</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+ <div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><div><strong>General Summary:</strong></div><div><br>To assist in all aspects of staff training related operational activities and ensure there are all consistent with overall HR objectives, policies and procedures.</div><div><strong>Principal Responsibilities:</strong></div><ul><li>Conduct orientation programs to ensure smooth transition of new hires to the job and workplace.</li><li>Conduct Training Need Analysis to determine the training need.</li><li>Develop annual training plans and calendar in consultation with the HR Manager.</li><li>Coordinate &amp; manage all on the job training.</li><li>Undertake and oversee the development, design and conducting of in-house training courses, including developing internal training resources.</li><li>Organizing, coordination and communication of all in-house courses.</li><li>Processing of external training request including HRDF claim and reimbursements.</li><li>Evaluate instructor/training provider performance and the effectiveness of training program to the participants, providing recommendations for improvements.</li><li>Prepare training budget and effectively monitor related expenditures to ensure the cost stay within budgetary allotments.</li><li>Staff training records/history and Individual Development Plan.</li><li>Organizational Development initiatives, which includes administering employee engagement surveys.</li><li>Support implementation of Learning &amp; Development and Organizational Development special initiatives e.g. Internship Program, succession/talent retention program, competency development program etc.</li><li>To make sure a systematic and completed filing system in the department for ISO requirements.</li><li>Ensure that compliance of the Quality Assurance Manual (QAM) and Quality System Procedures (QSP).</li><li>Maintains records for audit to demonstrate actual practicing of Standard Operating Procedures (SOP), company policy and objectives.</li><li>To strive to achieve the KPIs set for the department.</li><li>Assist in handling any HR projects and any other duties as assigned if necessary.</li><li>Perform other related duties as assigned by the Superior / Senior Manager &#8211; Human Resource or the Management</li><li>Attend the company/business calls at all time.</li><li>The company may at any time, deemed necessary, add or amend any of these job responsibilities.</li></ul></div><div><div><strong>Knowledge, Skill and Ability Requirements:</strong></div><ul><li>Candidate must possess at least a Bachelor's Degree in Human Resource Management or equivalent&#160;</li><li>At least 1 year of working experience in the related field is required for this position.</li><li>Good knowledge in HRDF Act 2001 and other requirements in relation to training &amp; development.</li><li>Knowledge in the HRDF e-Tris system is an added advantage.&#160;</li><li>Well verse with the training coordination processes from needs analysis to program evaluation.</li><li>Strong interpersonal, negotiation and decision-making skills.</li><li>Proactive, strong networking capabilities and relationship management skills.</li><li>Ability to prioritize tasks and work under pressure.</li><li>Strong planning and organizing skills to meet multiple deadlines and objectives.</li><li>Good time-keeping skills to enable effectively manage training schedules and documents are updated consistently.</li></ul></div><div><strong>Applicants must be willing to work in Bukit Angkat,Kajang. Only shortlisted applicant will be notified.</strong></div></div></span></div></div></div> 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>
+<div>
+		Dunham-Bush is one of the world's top commercial air-conditioning manufacturers, we offers a complete range of HVAC/R products such as large chillers, heat pumps, thermal energy storage, packaged, airside system and unitary, for residences, commercial buildings and industrial facilities.</div>
+<div>
+<br>
+		The Group has manufacturing facilities and marketing offices in Malaysia, USA, China, UK, Europe, Asia, Africa, Middle East and Latin America. Our Principle activities are in the manufacturing, trading, servicing of Industrial and Commercial Air-conditioning, heating, ventilation and refrigeration equipments.</div>
+<div>
+<br>
+		Our people focus on providing innovative engineering and superior quality manufacturing that meet our customers&#8217; demands for performance, reliability, quiet operation and energy efficiency.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/executive-human-resource-training-development-4422068?jobId=jobstreet-my-job-4422068&sectionRank=6&token=0~0ee792f1-0732-4b4e-bbe8-4b12c91acc1d&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
