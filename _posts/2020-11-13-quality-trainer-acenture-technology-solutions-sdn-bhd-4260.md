@@ -1,0 +1,25 @@
+---
+title: "Accenture Technology Solutions Sdn Bhd Vacancies Quality Trainer" 
+category: Jobs 
+date: 2020-11-13 
+excerpt: "Accenture Technology Solutions Sdn Bhd is currently looking for suitable person to fill in the Quality Trainer which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Accenture Technology Solutions Sdn Bhd is looking for new potential candidates to fill in for <b>Quality Trainer</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+ <div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div>The responsibility of the Quality Analyst performs quality inspection, documents findings by following required audit process and procedures, provides trend analysis, and participates in audit calibration processes where required.</div><div><strong>Responsibilities:</strong></div><ul><li>Responsible for facilitating training; identifying root cause of performance health of new hire on-boarding; refresher trainings; and cross-training.</li><li>Service Provider Training Managers team will record and share the quarterly scores of the class observations and share it with the Training team</li><li>Participate in continued education efforts from the Training Team (i.e. refresher training, policy update content review, etc.)</li><li>Planning, design and delivery of Training sessions, including Ad-hoc Training, for both new and existing team members</li><li>Monitor and review the progress of trainees through questionnaires and discussions with managers and ensure corrective action when needed</li><li>Communicate with diverse audiences (e.g., employees, management, other sites, etc.) to provide information and clarification regarding training programs, actions, policies, procedures and best practices</li><li>Ensure that training solutions are designed in a logical, structured and clear manner, reflective of learning objectives and suited to a variety of learning styles</li><li>Manage participation during training delivery to ensure maximum contribution - test for understanding, observe behavior and alter delivery method if necessary</li><li>Collaborate with Business Partners to ensure training content is updated and aligned with policy launches, UI updates</li><li>Conducts analysis to identify needs and recommends appropriate solutions that distinguish between training, communication, and coaching and development opportunities</li><li>Provide end of class feedback to reduce errors and improve processes</li></ul><div><strong>Other Skills:</strong></div><div>&#8226; 2+ years of experience in a training role in a technical support or client care operation</div><div>&#8226; Good knowledge of Quality/Process Improvement techniques<br>&#8226; Excellent communication, consulting, influencing and interpersonal skills<br>&#8226; Proven track record of collaborating with cross-functional groups to produce results<br>&#8226; Passion for ensuring a world class support experience for our community<br>&#8226; Demonstrated ability to perform well in a rapidly changing environment and across multiple sites/teams</div><div>&#8226; Candidate must possess at least a Diploma, Advanced/Higher/Graduate Diploma, Bachelor's Degree, Post&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Graduate Diploma, Professional Degree, Master's Degree, any field.</div></div></span></div></div></div> 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>
+<div>
+<strong>About Accenture</strong></div>
+<div>
+		Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations. Combining unmatched experience and specialized skills across more than 40 industries and all business functions&#8212;underpinned by the world&#8217;s largest delivery network&#8212;Accenture works at the intersection of business and technology to help clients improve their performance and create sustainable value for their stakeholders. With 469,000 people serving clients in more than 120 countries, Accenture drives innovation to improve the way the world works and lives. Visit us at www.accenture.com.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/quality-trainer-4422660?jobId=jobstreet-my-job-4422660&sectionRank=14&token=0~7fe65c0e-1b76-4369-9e78-224ffd2bd795&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
