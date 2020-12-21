@@ -1,0 +1,25 @@
+---
+title: "Sunway University Vacancies Principal Teaching Fellow/ Senior Teaching Fellow - Food & Beverage" 
+category: Jobs 
+date: 2020-12-22 
+excerpt: "Sunway University is currently looking for suitable person to fill in the Principal Teaching Fellow/ Senior Teaching Fellow - Food & Beverage which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Sunway University is looking for new potential candidates to fill in for <b>Principal Teaching Fellow/ Senior Teaching Fellow - Food & Beverage</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+ <div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div>The <strong>School of Hospitality and Service Management</strong> at <strong>Sunway University</strong> invites outstanding applicants for the position of <strong>Principal Teaching Fellow / Senior Teaching Fellow &#8211; Food and Beverage</strong>. The Principal Teaching Fellow / Senior Teaching Fellow will support the Dean in the management of the School&#8217;s restaurants (Dining Room and Athanor), food and beverage operational and administrative matters together with a significant role on the academic side in teaching and learning.&#160;&#160;&#160;&#160;</div><div>The School currently offers six undergraduate programmes and a postgraduate programme; namely, the Diploma in Culinary Arts, Diploma in Hotel Management, Diploma in Events Management, BSc (Hons) in Culinary Management, BSc (Hons) in International Hospitality Management, BSc (Hons) in Conventions and Events Management and Master in International Hospitality Management. Some of the major tasks within the role(s) is to oversee the operational, administrative and academic matters in relation to food and beverage related subjects and manage the two restaurants and catering events within the School.</div><div>The successful candidate(s) will also be expected to make contributions toward the advancement of his / her discipline / subject evidenced by research and development (R&amp;D) activities and to mentor less-senior staff in teaching and learning related activities.<div>The position(s) requires candidates to possess at least a Master degree or equivalent and should possess significant recognized experience in food and beverage management. There is a requirement for academic and professional excellence evidenced by outstanding contributions to teaching and management within the areas of food and beverage. In determining professional experience relative to qualifications, considerations are given to the extent and quality of previous performances and achievements in all aspects of scholarship. There should also be evidence of having to take on leadership roles, managing people in academic and non-academic areas in his / her discipline and other technical accomplishments.</div><div>We thank all applicants for expressing their interest in this vacancy. Please note that only shortlisted applicants will be notified.</div></div></div></span></div></div></div> 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>
+<div>
+<div>
+			Sunway University is one of Malaysia&#8217;s leading private universities. It has received the top 5-star ratings for its teaching, facilities and graduate employability by the international university rating organization &#8220;QS&#8221;. It has also received the 5-star (&#8220;excellent&#8221;) rating three times in a row in the national university quality assessment exercise SETARA. Sunway University is owned by the Jeffrey Cheah Foundation and is a not-for-profit institution. The University occupies a state-of-the-art campus opened in 2015 at the heart of Sunway Resort City, linked by canopy level walkways to all of the amenities of the Sunway locality including the Sunway Lagoon Theme Park and the Sunway Pyramid Shopping Mall. The University has experienced strong annual growth in recent years and is rapidly developing its academic programmes and research. The University has strong collaborations with leading institutions Worldwide and offers dual degrees with Lancaster University, UK, a global top 1% institution. [University licence no.: DU025(B)].</div>
+</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/principal-teaching-fellow-senior-teaching-fellow-food-beverage-4448913?jobId=jobstreet-my-job-4448913&sectionRank=4&token=0~4b505445-0a8b-48fb-9e15-dddd46505d7f&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
