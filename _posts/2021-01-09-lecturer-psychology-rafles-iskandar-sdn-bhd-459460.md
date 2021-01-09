@@ -1,0 +1,21 @@
+---
+title: "Raffles Iskandar Sdn Bhd Vacancies Lecturer - Psychology" 
+category: Jobs 
+date: 2021-01-09 
+excerpt: "Raffles Iskandar Sdn Bhd is currently looking for suitable person to fill in the Lecturer - Psychology which positioned at Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Raffles Iskandar Sdn Bhd is looking for new potential candidates to fill in for <b>Lecturer - Psychology</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+ <div><div><h4>Job Description</h4></div><div><div><span><div><p>A Lecturer is expected to make a good contribution in <em>Teaching and Learning </em>and some contribution to RUI administration and his/her profession or discipline (<em>Leadership and Engagement</em>). He or she will either focus on <em>Teaching and Learning </em>(<em>Teaching Path</em>) or be involved in research or scholarly activity (<em>Combined Path</em>).</p><ul><li>Master&#8217;s Degree in a relevant field or other recognised equivalent qualifications;</li><li>Good to very good demonstrated capability in teaching.</li></ul><p>Duties</p><ul><li>Prepare and deliver lectures, tutorials, studios and practical sessions.</li><li>Assess student assignments and grade student performance.</li><li>Monitor and endeavour to maintain high student morale and motivation at all times.</li><li>Counsel and mentor students with regard to their punctuality, academic progress and professional development.</li><li>Maintain accurate and up-to-records; including, but not limited to, computer records, attendance sheets, and course portfolios.</li><li>Carry out other duties as assigned by management.</li><li>Organise and conduct field trips and other excursion or other learning activities.</li><li>Supervise Undergraduate Final Year Projects and Post Graduate projects.</li><li>Assist in school promotional activities (Open House, Trade Shows, Education Fairs, etc.) both inside and outside RUI normal operating hours.</li><li>Serve on committees and otherwise assist in administration.</li><li>Attend professional development workshops as specified by management.</li><li>Be involved in community activities.</li></ul></div></span></div></div></div> 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Raffles University was established by Raffles Iskandar Sdn. Bhd., a joint venture between Raffles Education Corporation Limited and Education@Iskandar Sdn Bhd (EISB), a member of the Iskandar Investment Group. Raffles University is an Asian-based Malaysian university that prides itself as a practice-oriented university with intensive curricula and practical hands-on experiences that prepares students for their future careers. The University was formally approved by Malaysia&#8217;s Ministry of Higher Education (MOHE) on 31st October 2011.</div>
+<div>Currently operating from its temporary premises at Menara Kotaraya, Jalan Trus, Johor Bahru, Raffles University Iskandar will develop a state-of-the-art campus on a 65-acre plot of land in Iskandar Malaysia&#8217;s EduCity. Raffles University&#8217;s strategic location in Iskandar sets the university in a secure and growing state economy with high potential in both economic and cultural developments. Students can expect a vibrant and dynamic nurturing learning experience that will see their transformation into world-class professionals.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/lecturer-psychology-4459460?jobId=jobstreet-my-job-4459460&sectionRank=11&token=0~7b60a29f-16fd-4139-bdd5-52a9b101e9a8&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
