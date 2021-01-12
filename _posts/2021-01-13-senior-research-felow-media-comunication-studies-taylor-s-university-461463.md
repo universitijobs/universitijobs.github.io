@@ -1,0 +1,20 @@
+---
+title: "Taylor's University Vacancies Senior Research Fellow - Media & Communication Studies" 
+category: Jobs 
+date: 2021-01-13 
+excerpt: "Taylor's University is currently looking for suitable person to fill in the Senior Research Fellow - Media & Communication Studies which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Taylor's University is looking for new potential candidates to fill in for <b>Senior Research Fellow - Media & Communication Studies</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+ <div><div><h4>Job Description</h4></div><div><div><span><div><div><p><strong>JOB PURPOSE</strong></p><p>The role of Senior Research Fellow is mainly to supervise/co-supervise theses for the research programme, namely&#160; Doctor of Philosophy (Media &amp; Communication Studies). Apart from that, they are also expected to assist with supervision of research projects in the Master of Communication programme. The supervisors preferably should be able to supervise broad range of media studies and/or communication studies.</p><p><strong>KEY RESULT AREAS/ RESPONSIBILITIES</strong></p><ul><li>Supervising up to 12 students for 3 days in a week.</li><li>Publish up to three indexed publication as part of the outcome of supervised work.</li><li>Mentor and support in applying for education-related research grants.</li><li>Provide networking opportunities in promoting the school.</li></ul><p><strong>MINIMUM QUALIFICATIONS</strong></p><p>PhD in Media and Communication Studies or related disciplines</p><p><strong>RELATED EXPERIENCE</strong></p><p>15-20 years relevant work experience in Media and Communication Studies</p><p><strong>KEY COMPETENCIES</strong></p><ul><li>Good communication and supervisory skills</li><li>Strategic thinking and research methodology</li><li>High level of integrity and ethics</li></ul></div></div></span></div></div></div> 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><p><strong>Taylor's University</strong> is a leading international University amongst the top 10 Malaysian universities. With an unparalleled for outstanding reputation experience provided to its students, Taylor's University is pioneering an approach to university education which aims to develop the intellectual, physical and emotional capability of its students and make them the first choice for employers of graduates. The University plans to build on its strength to move into the league of&#160; top 100 Asian universities.&#160;</p><p>Since its inception in 1969, Taylor's has become one of Malaysia most successful and reputable private high education institutions. Taylor's has continuously provided excellent services for its students in terms of diverse study options, relevant curriculum and teaching methods, ongoing partnerships with leading universities worldwide, strong industry linkages, up-to-date facilities and well-equipped campus.</p><p>Taylor's University&#160; is also a&#160; member of Taylor's Education Group which also comprises Taylor's College, Garden International School, Australian International School Malaysia, Taylor's International School KL &amp; Puchong, Nexus International School Putrajaya and Nexus International School Singapore.&#160;</p></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/senior-research-fellow-media-communication-studies-4461463?jobId=jobstreet-my-job-4461463&sectionRank=11&token=0~1286345f-ce77-4493-971c-02948ef8c4e5&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
