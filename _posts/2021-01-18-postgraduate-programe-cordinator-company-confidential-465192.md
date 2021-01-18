@@ -1,0 +1,20 @@
+---
+title: "Company Confidential Vacancies Postgraduate Programme Coordinator" 
+category: Jobs 
+date: 2021-01-18 
+excerpt: "Company Confidential is currently looking for suitable person to fill in the Postgraduate Programme Coordinator which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Company Confidential is looking for new potential candidates to fill in for <b>Postgraduate Programme Coordinator</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+ <div><div><h4>Job Description</h4></div><div><div><span><div><p>The Postgraduate Programme Coordinator will be responsible for the Postgraduate Division of the institution with duties that would include, but not limited to:</p><p><strong>Teaching and Learning:</strong></p><ul><li>Promote high quality teaching and learning in lectures and tutorials and conduct tutorials, lectures and supervision of students in the postgraduate classes;</li><li>Develop and deliver course material and flexible approaches to teaching and learning;</li><li>Coordinate courses and ensure the appointment of proper teaching staff;</li><li>Provide support for other positions during absence;</li><li>Participate in seminars, meetings and committees.</li></ul><p><strong>Administration:</strong></p><ul><li>Course administration, course/unit coordination, provision of course related advice to students, and conduct of assessment procedures and examinations;</li><li>Contribute to the enrolment, student orientation and staff induction process;</li><li>Contribute to the developing relationships with University partners, professional bodies, industry, government bodies and the wider community;</li></ul><p><strong>Marketing</strong>:</p><ul><li>Develop partnerships with corporates to promote the programmes;</li><li>Develop digital campaigns and others appropriate marketing effort to improve enrolment;</li><li>Present high-quality previews to corporate clients;</li><li>Be responsible for the recruitment of new students to the programme and the overall revenue target for the division.</li></ul><p>&#160;<strong>Reporting</strong>:</p><ul><li>Develop high level management reports for the Directors. to promote.</li><li>Monitor and report on Key Performance Indicators.</li></ul><p>&#160;<strong>Applicants should have:</strong></p><ul><li>At least a MBA in the appropriate discipline.</li><li>Detailed evidence of successful teaching and learning experience at the tertiary level.</li><li>Well-developed organizational skills necessary.</li><li>Proven effective oral and written communication skills encompassing cross-cultural sensitivity, and evidence of a desire and ability to interact well with students.</li><li>Demonstrated strong work ethic and integrity, and able to work weekends.</li></ul></div></span></div></div></div> 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>With a number of years of successfully delivering high quality postgraduate programmes and trainings, the Institution is looking for a motivated and driven senior executive to head the growing Postgraduate Division.</p><p>The Institution is located strategically in the heart of KL City and provides quality Higher Education programmes. It also has a number of top-ranking international university partnerships.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/postgraduate-programme-coordinator-4465192?jobId=jobstreet-my-job-4465192&sectionRank=15&token=0~78f8e707-5725-4527-b390-8a5cb49e5a8d&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
