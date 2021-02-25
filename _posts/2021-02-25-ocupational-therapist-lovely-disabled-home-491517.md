@@ -1,0 +1,20 @@
+---
+title: "LOVELY DISABLED HOME Vacancies Occupational Therapist" 
+category: Jobs 
+date: 2021-02-25 
+excerpt: "LOVELY DISABLED HOME is currently looking for suitable person to fill in the Occupational Therapist which positioned at Petaling Jaya" 
+tags: [Petaling Jaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>LOVELY DISABLED HOME is looking for new potential candidates to fill in for <b>Occupational Therapist</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+ <div><div><h4>Job Description</h4></div><div><div><span><div><ul><li>Candidate must possess at least Diploma/Advanced/Higher/Graduate Diploma in Education/Teaching/Training or equivalent.</li><li>Required language(s):&#160;English, Mandarin</li><li>At least 1&#160;Year(s) of working experience in the related field is required for this position.</li><li>Required Skill(s): Sensorimotor Skills, Sensory Processing Integration, Visual-Motor Integration, Visual Perceptual Skills, Fine Motor Control and Coordination, Gross Motor Control and Coordination, Self-Care Skills, Social and Peer Interaction Skills, Executive Functioning Skills</li><li>Preferably Junior Executive specialized in Social &amp; Counselling Service or equivalent.</li></ul></div></span></div></div></div> 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Lovely Disabled Home was established on November, 2005. We are a Non-Profitable, non-Governmental Organisation (NGO) with objective to provide a workshop and a platform for our disabled friends to work and interact. We have been hosting approximately 70 individuals including the disabled children. There are also occasional workshops like music class and training sessions held in our centre.</p><p>&#29233;&#8226;&#20851;&#24576;&#20043;&#23478;&#21019;&#31435;&#20110;2005&#24180;11&#26376;&#65292;&#26159;&#19968;&#25152;&#38750;&#25919;&#24220;&#32452;&#32455;&#21450;&#38750;&#30408;&#21033;&#30340;&#27531;&#38556;&#20013;&#24515;&#65292;&#19987;&#20110;&#20851;&#24576;&#32930;&#20307;&#27531;&#38556;&#12289;&#26234;&#38556;&#12289;&#30153;&#25371;&#20799;&#30340;&#23478;&#65292;&#24231;&#33853;&#22312;&#38634;&#20848;&#33706;&#24030;&#20843;&#25171;&#28789;&#20877;&#20063;SS2&#12290;</p><p>&#29233;&#8226;&#20851;&#24576;&#20043;&#23478;&#19968;&#30452;&#31177;&#30528;&#8220;&#27665;&#38388;&#26377;&#30495;&#29233;&#12289;&#19990;&#38388;&#26080;&#38556;&#30861;&#8221;&#30340;&#29702;&#24565;&#32487;&#32493;&#20026;&#30528;&#19968;&#32676;&#38656;&#35201;&#20851;&#29233;&#30340;&#24369;&#21183;&#32676;&#20307;&#26381;&#21153;&#12290;</p><p>&#29233;&#19982;&#20851;&#24576;&#30340;&#24847;&#20041;&#26159;&#8220;&#29233;&#8221;&#20351;&#29983;&#21629;&#26356;&#21152;&#20142;&#20029;, &#22240;&#20026;&#8220;&#20851;&#24576;&#8221; &#35753;&#20154;&#29983;&#20805;&#28385;&#24076;&#26395;&#12290;</p><p>&#29233;&#8226;&#20851;&#24576;&#20043;&#23478;&#30340;&#23447;&#26088;&#26159;&#65306;</p><p>1) &#25552;&#20849;&#26080;&#30861;&#24037;&#20316;&#22346;&#65292;&#22521;&#35757;&#24535;&#24895;&#25588;&#21161;&#23601;&#19994;&#12290;</p><p>2) &#21327;&#21161;&#27544;&#21451;&#24314;&#31435;&#36523;&#24515;&#20581;&#24247;&#30340;&#29983;&#27963;&#12290;</p><p>3) &#25512;&#21160;&#24859;&#24515;&#37266;&#35273;&#36816;&#21160;&#65292;&#29229;&#21462;&#31119;&#21033;&#12290;</p><p>4) &#24314;&#31435;&#24535;&#24037;&#22242;&#38431;&#19982;&#27544;&#21451;&#25658;&#25163;&#20851;&#24859;&#31038;&#20250;&#12290;</p><p>5) &#25512;&#21160;&#36164;&#28304;&#22238;&#25910;&#65292;&#33853;&#23454;&#31038;&#20250;&#29615;&#20445;&#12290;</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Petaling Jaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/occupational-therapist-4491517?jobId=jobstreet-my-job-4491517" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
