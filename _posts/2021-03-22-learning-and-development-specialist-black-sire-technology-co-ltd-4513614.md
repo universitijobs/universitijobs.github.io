@@ -1,0 +1,28 @@
+---
+title: "Black Sire Technology Co.,Ltd Vacancies Learning And Development Specialist" 
+category: Jobs 
+date: 2021-03-22 
+excerpt: "Black Sire Technology Co.,Ltd is currently looking for suitable person to fill in the Learning And Development Specialist which positioned at Petaling Jaya" 
+tags: [Petaling Jaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Black Sire Technology Co.,Ltd is looking for new potential candidates to fill in for <b>Learning And Development Specialist</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>In this role, you should be passionate about helping employee learn and grow. Apply the local culture transformation in the learning and development strategy, processes, practices by designing, developing and conducting development programs to achieve business objectives.</div><div>Job Responsibilities:</div><ul><li>Proactively review and understand the global learning and development practices, build knowledge and competency experimenting with new ideas.</li><li>Keep abreast of developments and trends in the training industry and apply knowledge of new developments into the training and learning programs, trends and best practices.</li><li>Develop and plan the learning &amp; development calendar and activities to meet the skills requirements, aligned with the company business priorities and operation needs.</li><li>Manage and keep all training materials, employee profiles and career development needs organized and updated.</li><li>Create learning and development policies and processes that are aligned with the organization's objectives and policies.</li><li>Lead the efforts in executing and coordinating full spectrum of employee training activities in the Blacksire Academy.</li><li>Conduct Training Needs Analysis (TNA) for all departments to assess employees&#8217; skills, performance, and productivity and identify future development needs/skills gap.</li><li>Set up regional training database &#8211; manage online learning resources, training videos, assessment, and e-Learning contents to be uploaded in Learning Management System.</li><li>Produce and maintain training records and information in the Learning Management System</li><li>Analyze and review training feedbacks for any improvement on arranged learning session for employees.</li><li>Follow up and evaluate effectiveness, success, and ROI of each training program periodically and report on them.</li><li>Conduct internal trainings/workshops.</li><li>Responsible for all application and filing of HRDF training grants, submission of HRDF claims and etc.</li><li>Periodically review the existing learning &amp; development policies, learning programs &amp; plans, and training budget.</li><li>Assist in any of the talent management program to motivate and enhance the competency of employees.</li><li>Involve in other HR Training projects as assigned by the HOD.</li></ul><div>Job Requirements:</div><ul><li>Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree in Human Resource Management, Business Administration, Business Management, Psychology or equivalent.</li><li>At least 6 Years&#8217; of working experience in a global Learning &amp; Development, content development and delivery, workforce performance improvement initiatives. Well versed and experienced in different industries.</li><li>Have experience in training or certified trainers are preferred.</li><li>Experience in high growth, fast-paced environment.</li><li>Strong interpersonal skills &#8211; ability to connect well and work in a collaborative manner.</li><li>Entrepreneurial and ambitious &#8211; takes initiative and takes personal ownership and accountability.</li><li>Strong critical analysis, organizing and planning, report writing and presentation skills.</li><li>Bilingual.</li><li>Willing to travel /outstation.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>
+		Black Sire Technology Co.Ltd develops business models for the new age. We are a community of diligent experts of different spheres working together to develop end-to-end digital transformation solutions for exquisite&#160;gaming platforms. Our team comprises of digital strategists, game developers, user experience innovators, visualizers, creative content developers, web and mobile developers, app designers, performance marketers, customer care consultants and management consultants.</div>
+<div>
+		While we specialize in creating&#160;digital solutions, games and software, we also take pride in maintaining each platform through different means of marketing channels, which is followed through by our around-the-clock customer care consultants located in several locations. Our growing team of marketing executives assist in customer acquisition, customer retention and conversion optimization.</div>
+<div>
+		We are a&#160;licensed company&#160;situated in Cambodia, Sihanoukville Province, with branch offices located in Malaysia, Philippines &amp; Thailand.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Petaling Jaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/learning-and-development-specialist-4513614?jobId=jobstreet-my-job-4513614" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
