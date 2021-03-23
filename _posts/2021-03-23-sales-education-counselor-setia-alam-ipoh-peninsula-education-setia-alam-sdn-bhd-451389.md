@@ -1,0 +1,26 @@
+---
+title: "Peninsula Education (Setia Alam) Sdn. Bhd. Vacancies Sales & Education Counsellor (Setia Alam & Ipoh)" 
+category: Jobs 
+date: 2021-03-23 
+excerpt: "Peninsula Education (Setia Alam) Sdn. Bhd. is currently looking for suitable person to fill in the Sales & Education Counsellor (Setia Alam & Ipoh) which positioned at Shah Alam/Subang" 
+tags: [Shah Alam/Subang] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Peninsula Education (Setia Alam) Sdn. Bhd. is looking for new potential candidates to fill in for <b>Sales & Education Counsellor (Setia Alam & Ipoh)</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>RESPONSIBILITIES</strong></p><ul><li>Will be required to support the implementation of sales and marketing plan, to ensure student enrolment targets are achieved.&#160;</li><li>Responsible for the day-to-day support, servicing and management of a selected network of recruitment channels which will involve travel locally and working over the weekends, when necessary.&#160;</li><li>Take a proactive role in follow-up and conversion of students.&#160;</li><li>Provides accurate information, advice, and guidance to prospective parents about the curriculum at all levels (pre-school, primary and secondary).</li><li>Counsels, contacts and follow up enquiries and applications to convert and recruit new students.</li><li>Maintains an up-to-date record of the student recruitment and admissions process.</li><li>Handles enquiries gathered from marketing campaigns for conversion purposes.</li><li>Represents the Schools at education fairs, roadshows, workshops, and other sales and marketing related activities.</li><li>Maintains, updates, and keeps abreast of own professional knowledge / education industry wide matters.</li><li>Contributes to team effort by accomplishing related results as needed in working closely with the principals and teachers.&#160;</li><li>Works with principals and Marketing in executing marketing initiatives e.g. banners, leaflets, posters and design work to name a few for website and social media presence.&#160;</li><li>Undertakes projects and any other duties and responsibilities as and when assigned from time to time and any other duties assigned by the principals and Marketing.</li></ul><p><strong>REQUIREMENTS</strong></p><ul><li>Degree in Marketing/Counseling / Social Science / Psychology / Business or related discipline.</li><li>At least two (3) years of working experience, preferably in an educational institution with involvement in counseling, marketing and sales promotions.</li><li>Knowledge of counseling principles, methods and techniques</li><li>Knowledge and skills in using computer software eg. Microsoft software applications.</li><li>Ability to analyse and interpret the needs of parents and students and offer appropriate solutions.</li><li>Ability to work with minimal supervision.</li><li>Strong interpersonal and communication skills with ability to communicate comfortably with parents and students in a courteous and professional manner.</li><li>Possess good planning, organizing, coordinating, presentation and time management skills.</li><li>Creative, resourceful, customer focused, self-motivated and results oriented.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><strong>&#8203;</strong>
+<div>Peninsula International School Australia, Malaysia Campus (PISA) is the first International School in Malaysia to deliver the Victorian Curriculum and the Victorian Certificate of Educational in partnership with Peninsula Grammar in Morington Peninsula, Victoria. Such programmes operate under license to the Victorian Curriculum and Assessment Authority known as VCAA. &#160;</div>
+<div>Peninsula Grammar&#160;provides academic support, course structure and support materials, along with training and mentoring programs for teachers, while we adhere to the highest standards of education associated with Peninsula Grammar's long tradition of academic excellence.</div>
+<div>PISA will allow students in Malaysia to study for an internationally recognized qualification without having to leave their home. Our students can develop a high level of fluency in English and a strong understanding of the western education system. This ensures that they are well prepared for study at western universities in the future.</div>
+<div>PISA is located in Setia Alam and it approximately 45 minutes away from the Kuala Lumpur City Centre.&#160;</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Shah Alam/Subang. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/sales-education-counsellor-setia-alam-ipoh-4513889?jobId=jobstreet-my-job-4513889" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
