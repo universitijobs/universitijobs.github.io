@@ -1,0 +1,21 @@
+---
+title: "ED NETWORK INTERNATIONAL EDUCATION SDN. BHD. Vacancies Course Counsellor / Marketing Executive" 
+category: Jobs 
+date: 2021-03-25 
+excerpt: "ED NETWORK INTERNATIONAL EDUCATION SDN. BHD. is currently looking for suitable person to fill in the Course Counsellor / Marketing Executive which positioned at Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>ED NETWORK INTERNATIONAL EDUCATION SDN. BHD. is looking for new potential candidates to fill in for <b>Course Counsellor / Marketing Executive</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities:</strong></p><ul><li><span>To ensure the student enrollment targets are achieved.</span></li><li><span>To participate in planning and executing the marketing strategies for student enrolment targets.</span></li><li><span>To coordinate and participate in marketing and promotional activities for business development.</span></li><li>To participate in organizing school fairs, workshop, exhibitions and roadshows.</li><li><span>To conduct market survey and execute marketing strategies to enhance company brand awareness.</span></li><li><span>To do course counselling and provide university placement service</span></li><li><span>Liaise closely with school and college counsellor for marketing activities</span></li><li><span>To work with a team of counsellors to achieve company sales target</span></li><li><span>Undertake special assignment, ad-hoc functions and related duties as and when required</span></li></ul><p><strong>Requirement:</strong></p><ul><li><span>Possess at least a bachelor&#8217;s degree in any field or Diploma with work experience in marketing field are welcome</span></li><li><span>Required language(s): English, Mandarin, Bahasa Malaysia</span></li><li><span>Candidates fluent in mandarin preferred as role requires candidate to deal with mandarin speaking clients and involve idea in marketing material</span></li><li><span>Able to work independently and mature with least supervision&#160;</span></li><li><span>Responsible and excellent in customer service is the must.</span></li><li><span>Willing to travel outstation and have your own transport</span></li><li><span>Fresh graduates are welcome.</span></li></ul><p><strong>Benefit</strong></p><ol><li><span>Salary package (Basic + Allowances+ Commission)</span></li><li><span>Performance-based yearly increment &amp; bonus.</span></li><li><span>EPF/SOCSO</span></li><li><span>Company trip</span></li><li><span>Mobile Plan</span></li><li>Work<span>ing hours:</span></li></ol><p><span>-Monday to Friday: 9.00 am to 5.00pm</span></p><p><span>-Saturday: 9.00am to 1pm (Alternate)</span></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>ED Network International Education was established in 2013 with the distinction that emanates from its people, its value and its position as a professional education consultation agency in Malaysia with Main Office in Johor Bahru and a Branch in Batu Pahat.</p><p>ED Network is more than just another education consultation agency It takes a human oriented approach and the view that overseas education is life long human resource development investment With this perspective it gives very special care and attention to its clients, balancing aspects of professional advice with aspects of human need and sensitivity.</p><p>ED Network is a marketing house of institutions with professional representation to properly market their</p><p>courses and services through its experienced personnel</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/course-counsellor-marketing-executive-4516473?jobId=jobstreet-my-job-4516473" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

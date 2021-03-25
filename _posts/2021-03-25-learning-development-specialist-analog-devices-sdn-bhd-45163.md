@@ -1,0 +1,25 @@
+---
+title: "Analog Devices Sdn. Bhd. Vacancies Learning & Development Specialist" 
+category: Jobs 
+date: 2021-03-25 
+excerpt: "Analog Devices Sdn. Bhd. is currently looking for suitable person to fill in the Learning & Development Specialist which positioned at Bayan Lepas" 
+tags: [Bayan Lepas] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Analog Devices Sdn. Bhd. is looking for new potential candidates to fill in for <b>Learning & Development Specialist</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Summary:</strong></p><p><span>The Learning &amp; Development Specialist is responsible for the full spectrum of training for the site which covers a complete activities from start to end.&#160;In addition to this, involvement in global and local projects&#160;for learning and development&#160;and HR&#160;overall.</span></p><p><strong>Key Responsibilities:</strong></p><ul><li><span>Responsible for managing and coordinating full spectrum of employee training activities for the location</span></li><li><span>Develop and plan the learning &amp; development calendar and activities aligned with the company&#8217;s business priorities, operation needs and training gaps</span></li><li><span>Source, drive and maintain the delivery of in-house and external learning programs according to the needs of the stakeholders</span></li><li><span>Conduct the Training Needs Analysis (TNA) for all departments and come out with the training plan</span></li><li><span>Review and fine-tune existing learning &amp; development policies, learning programs &amp; plan and training budget</span></li><li><span>Conduct internal trainings/workshops, including but not limited to new hire orientation</span></li><li><span>Responsible for HRDF account management including grant and claim application</span></li><li><span>Acting as key driver and custodian for any talent management program to motivate and build the competence of employees</span></li><li><span>Partner and involve organizational leadership in the facilitation of curriculum</span></li><li><span>Effectively use adult learning principles to maximize effectiveness of training</span></li><li><span>Relate course material to actual on the job tasks and ensure development of these competencies.</span></li><li><span>Periodically audit the training process, incorporate feedback and make revisions</span></li><li><span>Keep abreast of developments and trends in the training industry, and apply knowledge of new developments into the training programs, as appropriate</span></li><li><span>Involve in other HR projects as assigned</span></li><li><span>Produce and maintain training records with 100% accuracy</span></li><li><span>Partnering with Global Team for global programs and initiatives to be implemented on site.</span></li><li><span>Assists in other Talent Management/HR processes, projects as needed</span></li><li><span>Support other HR related activities as and when needed</span></li></ul><p><strong>Job Requirements</strong></p><ul><li><span>Bachelor Degree holders with minimum 5 years in a&#160;Training Admin role.</span></li></ul><p><strong>Preferred</strong></p><ul><li>Experience as Internal auditor, well versed in Industrial Standard, Upskilling Program, &amp; Leadership Development</li><li>Excellent communication, interpersonal, strong leadership, independent and a team player</li><li>Familiar with traditional and modern training methods</li><li>Excellent in Microsoft Office (Word, Excel, Power Point)</li><li><span>Effective Communication Skills</span></li><li><span>Interpersonal Relations Skills</span></li><li><span>Behavioral Skills</span></li><li><span>Client Service Skills</span></li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Analog Devices&#160;Sdn Bhd is a part of Analog Devices Inc.</div>
+<div>Analog Devices&#160;Sdn Bhd manufactures broad line of high performance analog integrated circuits for major companies worldwide for three decades. The Company&#8217;s products provide an essential bridge between our analog world and the digital electronics in communications, networking, industrial, automotive, computer, medical, instrumentation, consumer, and military and aerospace systems.</div>
+<div>
+<div><strong>Great Products and Services, Even Better People!</strong></div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Bayan Lepas. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/learning-development-specialist-4516663?jobId=jobstreet-my-job-4516663" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
