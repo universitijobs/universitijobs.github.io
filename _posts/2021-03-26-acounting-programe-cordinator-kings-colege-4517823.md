@@ -1,0 +1,27 @@
+---
+title: "Kings College Vacancies Accounting Programme Coordinator" 
+category: Jobs 
+date: 2021-03-26 
+excerpt: "Kings College is currently looking for suitable person to fill in the Accounting Programme Coordinator which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Kings College is looking for new potential candidates to fill in for <b>Accounting Programme Coordinator</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>An exciting position for a dynamic academic with career development opportunities. Kings College is looking for a student-centered individual to join the expanding team. The responsibilities include:</strong></p><p><strong>Teaching and Learning</strong></p><p><span>&#183; Promote high quality teaching and learning in lectures and tutorials, and conduct tutorials, lectures and supervision of students in both undergraduate and postgraduate classes;</span></p><p><span>&#183;&#160;Develop and deliver course material and flexible approaches to teaching and learning;</span></p><p><span>&#183;&#160;&#160;Coordinate courses;</span></p><p><span>&#183;&#160;&#160;Provide support for other positions during absences;</span></p><p><span>&#183;&#160;&#160;Participate in seminars, meetings and committees.</span></p><p><strong>Industry</strong></p><p><span>&#183;&#160;&#160;Seek competitive grants or/and industry funded projects.</span></p><p><span>&#183;&#160;&#160;Seek internships for students.</span></p><p><span>&#183;&#160;&#160;Liaise with professional bodies and other associations.</span></p><p><strong>Administration</strong></p><p><span>&#183;&#160;Contribute to course administration, course/unit coordination, provision of course related advice to students, and conduct of assessment procedures and examinations;</span></p><p><span>&#183; Contribute to the enrolment, student orientation and staff induction processes;</span></p><p><span>&#183;&#160;&#160;Contribute to developing relationships with professional bodies, industry, government bodies and the wider community.</span></p><p><strong>Applicants should have the following:</strong></p><p><strong>&#160;</strong><span>&#183;&#160;&#160;A Master in related discipline.</span></p><p><span>&#183;&#160;Detailed evidence of successful teaching and learning experience at the tertiary level.</span></p><p><span>&#183;&#160;Well-developed organizational skills necessary to deliver efficient student-related administration.</span></p><p><span>&#183; Proven effective oral and written communication skills encompassing cross-cultural sensitivity, and evidence of a desire and ability to interact well with students.</span></p><p><span>&#183;&#160;&#160;Demonstrated strong work ethic and integrity.</span></p><p><strong>Desirable</strong></p><p><span>&#183; Established industry contacts in a range of areas relevant to the accounting discipline.</span></p><p><span>&#183; Experience in innovation in teaching and learning, especially within the blended learning environment.</span></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Kings College is a premier college for Malaysian and International students. We have graduated a number of outstanding students since the year 2000. Our commitment to quality and student outcomes has guided us in the way we conduct our teaching and the way we provide the foundation for our students to become valuable corporate citizens.</div>
+<div><br>
+Kings College&#8217;s vision is to lead in the provision of a high quality and personalised learning environment to develop work-ready graduates through excellence in teaching. We are a values-driven organisation and this is evident in the way we service our students.</div>
+<div><br>
+Our work-integrated learning and engagement with industry enables us to provide opportunities for our students to engage effectively with their future employers. With a high student satisfaction rating, Kings College continues to excel in developing curriculum that is innovative and empowering. We are focused on the skills that our students require to transition from the classroom to the boardroom. The College also has innovative prorammes like &#8220;earn as you learn&#8221; where domestic students are given opportunities to undertake casual work in related industries.</div>
+<div><br>
+Students at Kings College learn within a safe and multicultural environment that encourages constructive and collaborative learning. We are proud to host students from different parts of the world which reflects the melting-pot that Kuala Lumpur is.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/accounting-programme-coordinator-4517823?jobId=jobstreet-my-job-4517823" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
