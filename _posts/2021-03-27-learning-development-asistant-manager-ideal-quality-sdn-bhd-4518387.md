@@ -1,0 +1,21 @@
+---
+title: "Ideal Quality Sdn Bhd Vacancies Learning & Development, Assistant Manager" 
+category: Jobs 
+date: 2021-03-27 
+excerpt: "Ideal Quality Sdn Bhd is currently looking for suitable person to fill in the Learning & Development, Assistant Manager which positioned at Klang/Port Klang" 
+tags: [Klang/Port Klang] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Ideal Quality Sdn Bhd is looking for new potential candidates to fill in for <b>Learning & Development, Assistant Manager</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Descriptions:</strong></p><ul><li>Responsible for learning &amp; development initiatives, programs &amp; activities</li><li>Conduct training needs analysis (TNA) on employees to determine performance gaps and interventions.</li><li><span>Plan, budget, manage training plan and training expenses</span></li><li><span>Recommend and implement improvement plan</span></li><li><span>Ensure compliance of Training and Development manual and Standard Operating Procedures (SOP) as per expected standard</span></li><li><span>Review, revise and update documentation of training SOP</span></li><li>Create, write and revise Work Instructions (Wls), work processes, user manuals, maintenance <em>I </em>troubleshooting guides, Standard Operating Procedures (SOP) and operation manuals.</li><li>Prepare drawings / illustrations / photographs for training materials and other technical publications.</li><li>Ensure all written contents are aligned with the standard work processes.</li><li>Ensure all technical documents are updated from time to time.</li><li>Conduct related training sessions as required by management.</li></ul><p><strong>Job Requirements:</strong></p><ul><li>Minimum Degree in Engineering (Chemical / Mechanical / Mechatronic) or equivalent.</li><li>At least 5 Year(s) of working experience in the related field is required for this position.</li><li>Familiar with Microsoft Office, Adobe and other photo editing software.</li><li>Demonstrate excellent analytical, written, verbal and organization skills.</li><li>Able to explain technical and complex processes in a simple language that can be easily understood by all level of staff.</li><li>Highly motivated, dynamics, energetic and able to work independently</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Established since 1979, KOSSAN has grown from strength to strength and emerged as one of the world largest latex disposable glove manufacturer with production capacity of exceeding 22 billion pieces per annum (started with 10 million pieces). Its footprints have entrenched in the global market for gloves and having products sold in more than 160 countries mostly comprising developed nation including US, Europe, Scandinavian Countries, Japan, China and Korea.</p><p>KOSSAN, with strong track record in product quality and innovativeness, has been the major and preferred OEM supplier to many renowned MNCs in pharmaceutical field. Established since 1979, KOSSAN has grown from strength to strength and emerged as one of the world largest latex disposable glove manufacturer with production capacity of exceeding 22 billion pieces per annum (started with 10 million pieces). Its footprints have entrenched in the global market for gloves and having products sold in more than 160 countries mostly comprising developed nation including US, Europe, Scandinavian Countries, Japan, China and Korea.</p><p>KOSSAN, with strong track record in product quality and innovativeness, has been the major and preferred OEM supplier to many renowned MNCs in pharmaceutical field.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Klang/Port Klang. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/learning-development-assistant-manager-4518387?jobId=jobstreet-my-job-4518387" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
