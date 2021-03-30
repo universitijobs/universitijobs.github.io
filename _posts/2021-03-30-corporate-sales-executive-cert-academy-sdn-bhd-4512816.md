@@ -1,0 +1,21 @@
+---
+title: "CERT ACADEMY SDN BHD Vacancies Corporate Sales Executive" 
+category: Jobs 
+date: 2021-03-30 
+excerpt: "CERT ACADEMY SDN BHD is currently looking for suitable person to fill in the Corporate Sales Executive which positioned at Puchong" 
+tags: [Puchong] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>CERT ACADEMY SDN BHD is looking for new potential candidates to fill in for <b>Corporate Sales Executive</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>RESPONSIBILITIES</strong><ul><li>Meeting or exceeding sales goals.</li><li>Promote and sell professional service of safety training , first aid equipment , medical products such as Automated External Defibrillator (AED) and&#160;sanitizing service to corporate companies.</li><li>Helping determine pricing schedules for quotes, promotions and negotiations.</li><li>Preparing daily report.</li><li>Giving sales presentation to a range of prospective clients.</li><li>Visiting clients and potential clients to evaluate needs or promote products and services.</li><li>Coordinating sales efforts with marketing programs.</li><li>Understanding and promoting company programs.</li><li>Maintaining client records.</li><li>Maintain good collection payment from client.</li><li>Participate on behalf of the company in exhibitions or conferences.</li></ul><br><strong>JOB REQUIREMENTS</strong><ul><li>Candidate must possess at least Diploma/Advanced/Higher/Graduate Diploma, Bachelor's Degree/Post Graduate Diploma/Professional Degree in any field.</li><li>Required language(s): Bahasa Malaysia, English</li><li>At least 1 Year(s) of working experience in sales or related field is required for this position.</li><li>Preferably Junior Executive specialized in Sales - Corporate or experience in medical sales.</li><li>Possess close relationship with hospital, pharmaceutical company, government sector or medical supplier would be an added advantage.</li><li>Excellent Presentation skill &amp; interpersonal skill.</li><li>Possessed strong rapport building skill with clients.</li><li>Computer literacy with practical experience in MS Office</li><li>Ability to complete tasks within deadline &amp; work independently.</li><li>Possess own transport (car) &amp; valid driving license.</li><li>Desire to build a career in Safety and Medical Sales Management.</li></ul></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>CERT Academy is a Professional Educational Centre providing Emergency Response Training such as First Aid, CPR &amp; AED, Fire Suppression &amp; Prevention and Emergency Response Preparedness (ERP) training. We customize the course module to train Competent ERT!</p><p>CERT Academy is an Educational Centre Approved &amp; Recognized by:</p><p>Emergency Care and Safety Institure (USA)</p><p>American Academy of Orthopaedic Surgeons (AAOS)</p><p>American College of Emergency Physicians (ACEP)</p><p>&#8203;Throughout the years, the organization receive a large demand for safety equipments and AEDs from clients. To fullfill the growing demand from clients, the organization decide to establish MediCERT Supplies Sdn Bhd in the effort of expanding the CERT group.</p><p>MediCERT Supplies Sdn Bhd is a leading distributor for AED, first aid kit, emergency and safety equipments for various organizations in Malaysia. We believe in equipping every organizations to create a safer workplace.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Puchong. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/corporate-sales-executive-4512816?jobId=jobstreet-my-job-4512816" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
