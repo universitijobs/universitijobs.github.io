@@ -1,0 +1,21 @@
+---
+title: "JM Education Group Bhd Vacancies Education Counselor" 
+category: Jobs 
+date: 2021-04-04 
+excerpt: "JM Education Group Bhd is currently looking for suitable person to fill in the Education Counselor which positioned at Subang Jaya, Kuala Lumpur, Johor" 
+tags: [Subang Jaya, Kuala Lumpur, Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>JM Education Group Bhd is looking for new potential candidates to fill in for <b>Education Counselor</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities:</strong></p><ul><li>To counsel and advise students &amp; parents on overseas study options</li><li>To liaise with school and college counsellors on courses available at overseas institutions</li><li>To assist students and parents on course applications, study visa submission and accommodation arrangement</li><li>To attend education exhibition and fairs and able to work during weekend</li><li>To attend to administrative functions</li><li>Undertake special assignment, ad-hoc functions and related duties as and when required</li><li>To work with a team of counsellors to achieve company sales target</li><li>To support company in other related activities</li></ul><p><strong>Requirements:</strong></p><ul><li>Candidates must possess at least a Bachelor Degree in any field</li><li>Required language(s): English, Mandarin</li><li>Candidates fluent in mandarin preferred as role requires candidate to deal with mandarin speaking clients</li><li>Able to work independently and with least supervision&#160;</li><li>Outgoing &amp; pleasant personality, mature, good interpersonal &amp; communication skills and customer service skills</li><li><strong>Fresh graduates are encouraged to apply</strong></li><li>Willing to travel, both outstation and overseas&#160;</li><li><strong>Urgent</strong> available position<strong> </strong>at <strong>KL, Johor Bahru, Subang Jaya </strong>and <strong>Cheras Alam Damai</strong></li></ul><p><strong>What we look for:</strong>&#160;</p><ul><li>Highly driven and sales oriented and able to balance with prioritising the interest of students seeking advice.</li><li>Humility, high sense of accountability and self-driven are values we look-out for</li><li>Someone who wants to be a part of a long-term vision to build the best student counselling experience and passion to help student choose the best higher education path and in life</li></ul><p><strong>Benefits:</strong></p><ul><li>&#160;Salary package (Basic + Allowances + Commission)&#160;</li><li>Medical, parking allowances, overseas job training, mobile, company trip, travel allowances (overseas) etc</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Established in 1992 as a centre which provides counselling on options to school-leavers and young adults seeking advice on further education and training. This was more than twenty eight years ago when education opportunities were limited and information centres did not have adequate resources to advise parents and students on further education opportunities for both high-achieving and vocationally inclined students.</p><p>JM Education Group Sdn Bhd has a network of 9 offices throughout the country servicing students from West and East Malaysia.</p><p>We have a team of experienced multilingual counsellors to guide students through the entire process of arranging their study overseas in the UK, Australia, New Zealand, Singapore, USA, Canada, Europe as well as locally in Malaysia.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Subang Jaya, Kuala Lumpur, Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/education-counselor-4522811?jobId=jobstreet-my-job-4522811" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
