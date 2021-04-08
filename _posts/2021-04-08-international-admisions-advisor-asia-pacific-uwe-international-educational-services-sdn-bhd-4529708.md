@@ -1,0 +1,21 @@
+---
+title: "UWE International Educational Services Sdn Bhd Vacancies International Admissions Advisor: Asia Pacific" 
+category: Jobs 
+date: 2021-04-08 
+excerpt: "UWE International Educational Services Sdn Bhd is currently looking for suitable person to fill in the International Admissions Advisor: Asia Pacific which positioned at Subang Jaya" 
+tags: [Subang Jaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>UWE International Educational Services Sdn Bhd is looking for new potential candidates to fill in for <b>International Admissions Advisor: Asia Pacific</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><ol><li>To provide advice and support to staff in faculties, services and to customers verbally and in writing, throughout the admissions cycle, referring to procedures and standard regulations.</li><li>Seek and compile detailed information from faculty or service staff, external agencies and customers to ensure the efficient admissions, accommodation and reception of incoming students to the University.</li><li>To carry out standard and non-standard administrative processes, including identifying and processing applications that need special consideration, which will include those from international students and students with disabilities and/or learning difficulties, and to liaise with Faculties and specialist services as required.</li><li>To make suggestions for developing admissions processes and implementing process improvements where required.</li><li>To analyse and manipulate data, to produce reports; and to identify and process applications with non-standard requirements (UKVI, DBS, OH, interviews) and provide appropriate support to ensure the smooth transition from applicant to student and compliance with professional body requirements.</li><li>To organise and prioritise own work to ensure it is completed to agreed timeframe.</li><li>To make accurate and effective use of computerised office systems and to create and revise documents, and reports and communicate changes with colleagues and customers.</li><li>To work as part of a team, working in a flexible way to ensure the team meets its objectives and timescales.</li><li>To receive issues and resolve problems following procedures or guidelines using judgement where necessary to achieve the optimum solution e.g.assist in making admissions decisions for entry to programmes in accordance with the admission requirements of the programme or referring to Faculties as appropriate.</li><li>To build and maintain effective working relationships with contacts.</li><li>To comply with the University&#8217;s equal opportunities policy, and use this role to promote equal opportunity wherever possible.</li><li>To take reasonable care of your own health and safety and comply with rules and guidance relating to health and safety matter. Any other reasonable duties that fall within the scope of the post as allocated by the line manager following consultation with the post holder.</li></ol><p>The closing date for the receipt of CV&#8217;s is 20 April 2021 and these should attention to Ms Phenix Wai.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>UWE International Educational Services was incorporated as a company in August 2018 and so the person appointed will be joining at the initial stages of our development. The person appointed will join a team of seven people located in our company&#8217;s hub office at First Subang, Subang Jaya. We additionally have offices in Beijing, Guangzhou, Hanoi, Dhaka and also operate in over 25 countries.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Subang Jaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/international-admissions-advisor:-asia-pacific-4529708?jobId=jobstreet-my-job-4529708" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
