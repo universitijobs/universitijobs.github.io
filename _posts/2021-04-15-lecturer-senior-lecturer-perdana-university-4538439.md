@@ -1,0 +1,22 @@
+---
+title: "Perdana University Vacancies Lecturer/Senior Lecturer" 
+category: Jobs 
+date: 2021-04-15 
+excerpt: "Perdana University is currently looking for suitable person to fill in the Lecturer/Senior Lecturer which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Perdana University is looking for new potential candidates to fill in for <b>Lecturer/Senior Lecturer</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>Lecturer/ Senior Lecturer<br><br><div><br>PERDANA UNIVERSITY</div>Perdana University in Selangor, Malaysia, seeks to fill a full-time faculty position in Bioinformatics at the Lecturer / Senior Lecturer level with the School of Data Sciences. The successful applicant must possess a PhD in Bioinformatics or relevant field of expertise with experience in teaching Bioinformatics at a higher institution of learning, preferably with postdoctoral experience and a successful track record of scientific productivity. The candidate will be expected to promote and lead research projects in his/her area of expertise, assist in the education programmes of the School and also in service and outreach activities to the community. We especially encourage applicants with research interests and experience in high-dimensional big data analysis.<br>Specific requirements:<br>&#8226; Research interest in Next Generation Sequencing (NGS) data analysis and/or bioinformatics algorithm.<br>&#8226; Computational skills in NGS downstream analysis, pipeline development, R/ Python programming skills and biostatistical analysis.<br>&#8226; Evidence of ability to teach bioinformatics / computer science/ biostatistics at the undergraduate and / or postgraduate level<br>&#8226; A publication record in impact factor-related journals, commensurate with experience<br>&#8226; A track record in securing research grants would be advantageous<br>&#8226; Experience in curriculum development and delivery will be viewed favourably<br>&#8226; A track record in supervising postgraduate students at doctorate and/or masters level is preferred<br>&#8226; Excellent communication and interpersonal skills<br>&#8226; Evidence of leadership and management skills<br>&#8226; A team player willing to show flexibility in relation to working environment<br>&#8226; Excellent spoken and written English<div><br>Perdana University is a private university established in 2011 as part of the Public-Private Partnership Unit in the Prime Minister&#8217;s Department (UKAS). The Perdana University School of Data Science aims to merge data science-led innovation with applied research efforts to address some of the most pressing scientific challenges. This includes a commitment to provide education and training to the community. The School will leverage on its network of international connections to bring the latest advances in data science education and research to Malaysia.<br>Interested candidates should send a curriculum vitae, a description of his/her research program and a teaching statement (as a single PDF) to the following email address: hrrecruitment@perdanauniversity.edu.my<br>APPLICATION PROCEDURE:<br>&#8226; Please forward by email a letter of application clearly outlining your interest in and suitability for the post, a copy of your curriculum vitae and the contact details, including email address of three referees.<br>&#8226; Kindly forward the above details to hrrecruitment@perdanauniversity.edu.my</div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<strong>PERDANA UNIVERSITY&#160;</strong>offers medical programme in collaboration with Royal College of Surgeons,Ireland, as well as in other medical areas such as bioinformatics, occupational therapy and international trade programmes and is seeking dynamic individuals to join the University.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/lecturer-senior-lecturer-4538439?jobId=jobstreet-my-job-4538439" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
