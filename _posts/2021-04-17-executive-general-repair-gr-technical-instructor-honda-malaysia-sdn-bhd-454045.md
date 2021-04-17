@@ -1,0 +1,22 @@
+---
+title: "Honda Malaysia Sdn Bhd Vacancies Executive, General Repair (GR) Technical Instructor" 
+category: Jobs 
+date: 2021-04-17 
+excerpt: "Honda Malaysia Sdn Bhd is currently looking for suitable person to fill in the Executive, General Repair (GR) Technical Instructor which positioned at Alor Gajah" 
+tags: [Alor Gajah] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Honda Malaysia Sdn Bhd is looking for new potential candidates to fill in for <b>Executive, General Repair (GR) Technical Instructor</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>JOB SUMMARY</strong></div><ul><li>To plan and develop IDI / IDT training for dealer to manage self training to speed up training penetration.</li><li>To plan and launch Dealer Quality Check Audit (On-Site Deep Analysis) to gauge training effectiveness.</li><li>Coordinate the operation and management of GR / BP / New Model training and activities in all 3 training locations to improve communication for absolute solution.</li><li>To implement and execute annual training action plan.</li><li>To review training operation and management, training facility and equipment management by rotating Plan-Do-Check-Action (PDCA) cycle for optimum result.</li><li>To plan and review budget for maximizing training operation needs (GR).</li><li>To conduct HQSP DT, New Model / New Technology, IDT training to nationwide dealers.</li><li>To manage and despatch the issuance of HQSP certification to qualify technicians upon successful completion of HQSP training att ended.</li><li>To implement and execute HQSP annual renewal test in order to validate the HQSP qualified technician.</li><li>To make periodic maintenance of training laptops, training tools and equipment, and HDS software update.</li><li>To make data analysis on current market issue, review training needs (TNA) and execute suitable training courses for technician&#8217;s skill improvement (Source: Online DCSI, CUSCOM, Techline Data).</li><li>To execute Self Reliance License Renewal (GR) by provide and review training plan delivery, analyse market issue, new Ki training action plan, junior instructor development.</li><li>To review instructors&#8217; TNA and plan to execute GR skill continuity plan through instructors&#8217; development (technical &amp; non technical).</li><li>To execute National/Regional Technician Skill Contest.</li></ul><div><strong>JOB REQUIREMENT</strong></div><ul><li>Candidate must possess at least a Bachelor's Degree, Post Graduate Diploma, Professional Degree, Engineering (Mechanical) or equivalent; any field.</li><li>At least 3 year(s) of working experience in the related field is required for this position.</li><li>Excellent knowledge of MS Office and office management software.</li><li>Exceptional verbal and written communication skills.</li><li>Ability to collect, track, and analyze large amounts of data.</li><li>Adaptability and strong problem solving skills.</li><li>Excellent active listening skills.</li><li>Ability to build rapport and collaborate with others within the company and externally.</li><li>Understanding of consumer behaviors and industry trends.</li><li>Extensive, accurate product knowledge.</li><li>Contrcat position(s) available.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	A company desire to live your dreams, Honda Malaysia Sdn Bhd would like to meet with you. We are a newly established joint venture company, currently engaged in the business of manufacturing, assembling and distributing HONDA automobiles. In accordance with our continuous incentives to expand and establish Malaysia as our future regional production centre, we are presently inviting dynamic and high motivated individuals who have the passion to excel to join our progressive team, as:&#160;</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Alor Gajah. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/executive-general-repair-gr-technical-instructor-4540445?jobId=jobstreet-my-job-4540445" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
