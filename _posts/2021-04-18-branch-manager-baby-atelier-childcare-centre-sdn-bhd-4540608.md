@@ -1,0 +1,21 @@
+---
+title: "BABY ATELIER CHILDCARE CENTRE SDN. BHD. Vacancies Branch Manager" 
+category: Jobs 
+date: 2021-04-18 
+excerpt: "BABY ATELIER CHILDCARE CENTRE SDN. BHD. is currently looking for suitable person to fill in the Branch Manager which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>BABY ATELIER CHILDCARE CENTRE SDN. BHD. is looking for new potential candidates to fill in for <b>Branch Manager</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Duties &amp; Responsibilities:</strong></p><p><span>1) Marketing and Student Enrolment</span></p><ul><li>Develop strategies to increase the enrolment and retention of students at the branch</li><li>Attend prospective parents' inquiries and arrange for school tours</li><li>Execute effective marketing and branding strategies through social medial to increase brand awareness and student enrolments</li><li><span>Build and maintain positive relationships with parents through effective communication strategies.</span></li><li>Strive to maintain the highest level of customer satisfaction and lead the team to achieve all performance indicators</li></ul><p>2) Leadership and Human Resource Management</p><ul><li><span>Provide leadership to ensure that the highest quality standards are consistently maintained in the execution of Baby Atelier's curriculum</span></li><li>Coach and train educators, supporting them to appropriately monitor, <span>assess, document, evaluate every child's learning and development.</span></li><li>Arrange and monitor attendance, performance, and punctuality of all the educators in the branch</li><li>Create and lead all educators towards a high-performance culture</li></ul><p><span>&#160;3) Centre Operations</span></p><ul><li>Responsible for the overall branch operations including branch administration</li><li>Ensure that the school facilities are clean and well-maintained, upholding Baby Atelier's safety and hygiene standards at all times</li><li>Ensure compliance by parents and students to all the standard operating procedures especially infection control and sickness management</li><li>Responsible for the general upkeep and maintenance of the school facilities</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>At Baby Atelier, we believe that learning should be fun!</p><p>We are passionate about keeping the joy of childhood alive, to inspire a love for life-long learning. We believe that a good foundation in education and instilling the right moral values are key to ensuring that your child develops to become a confident, capable and highly responsible individual. Strategically located a stone&#8217;s throw away from Midvalley City, Baby Atelier is nestled within the affluent community of Taman Desa. We strive to provide a safe and nurturing environment for your child while you focus on your professional work.</p><p>Baby Atelier boasts of a variety of specially planned curriculum and enrichment programs for children aged from 4 weeks to 6 years.</p><p>Our uncompromising commitment towards excellence in quality and service is at the heart of everything we do, from our team of trained educators (which includes medically certified care givers) to the stimulating learning environment and the nutritious and wholesome diet we serve to your little ones!</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/branch-manager-4540608?jobId=jobstreet-my-job-4540608" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
