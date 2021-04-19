@@ -1,0 +1,24 @@
+---
+title: "International University of Malaya-Wales Sdn Bhd Vacancies Senior Lecturer in Psychology" 
+category: Jobs 
+date: 2021-04-20 
+excerpt: "International University of Malaya-Wales Sdn Bhd is currently looking for suitable person to fill in the Senior Lecturer in Psychology which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>International University of Malaya-Wales Sdn Bhd is looking for new potential candidates to fill in for <b>Senior Lecturer in Psychology</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>ROLES AND RESPONSIBILITIES</strong><br><strong>Academic</strong><br><strong>The&#160;Senior Lecturer</strong>&#160;will set and deliver high standards of teaching, learning, assessment and guidance to students in accordance with relevant curriculum and policies set by the University and its partner through the most effective and efficient use of resources. The role is inclusive of :<br><ul><li>Undertake teaching and teaching related duties such as preparation, development and design of teaching materials; conduct classes/lectures, tutorials and practicals; consultation with students, invigilation, marking and assessment</li><li>Participate and contribute in programme and curriculum development</li><li>Plan and implement teaching strategies to optimise student learning and encourage students&#8217; interest</li></ul><br><strong>REQUIREMENTS</strong><br><ul><li>A Doctorate in relevant area or specialisation and possess strong academic profile in the discipline and equivalent professional leadership experience</li><li>Demonstrated ability to lead and mentor others to engage with professional bodies, government and industry to gain external research funding.</li><li>The ability to think and act strategically including the ability to plan and to deliver continuous improvement of programs and courses; to deploy human, financial and other resources effectively; and to manage a broad range of educational and administrative processes.</li><li>Demonstrated high level of oral, written and interpersonal skills in order to work effectively with staff, industry partners, employers and other allied organisations.</li><li>Recognition by peers demonstrated by invitations to referee journal papers, conference submissions and by editorial boards.</li></ul></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div><strong>International University of Malaya-Wales (IUMW)</strong> is a private university located in Kuala Lumpur, Malaysia. IUMW was established based on a mutual partnership between the University of Malaya (UM) &amp; the University of Wales, UK. Leveraging on both universities' outstanding achievement, together with our own band of academicians, IUMW offers an array of undergraduate and postgraduate courses to both local and international students.</div>
+<div>&#8203;IUMW aspires to be a comprehensive research-informed university, recognised for its innovative teaching and learning, social services and education management. The International University of Malaya-Wales experience transforms students into lifelong learners, dedicated to service, with the knowledge, skills and confidence to succeed and lead in the region, state, nation and world.</div>
+We require candidate with relevant experience leading an academic school or faculty, coupled with a comprehensive knowledge of higher education and private institution, and a style that is proactive, innovative and agile as we embed our new structure. &#160;As change becomes the new norm in our industry, it is important that candidate have the ability to create a culture of excellence, enhancement, collaboration and respect, underpinned by strongly held values</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/senior-lecturer-in-psychology-4529698?jobId=jobstreet-my-job-4529698" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
