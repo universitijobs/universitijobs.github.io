@@ -1,0 +1,21 @@
+---
+title: "UNITAR International University Vacancies Faculty Executive" 
+category: Jobs 
+date: 2021-04-21 
+excerpt: "UNITAR International University is currently looking for suitable person to fill in the Faculty Executive which positioned at Petaling Jaya" 
+tags: [Petaling Jaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>UNITAR International University is looking for new potential candidates to fill in for <b>Faculty Executive</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><ul><li>To delegating tasks and ensuring that they are completed in accordance with existing policies and procedures.</li><li><span>To handle clerical duties such as data entry and coordinate general administration within the faculty.</span></li><li><span>Organize faculty documents into updated filing systems.</span></li><li>Provide general support to faculty as required.</li><li>Prepare and disseminate materials to assist faculty and departments in the development of effective.</li></ul><p><strong>Requirement:</strong></p><ul><li>Bachelor Degree or Master Degree in administration may be preferred</li><li>Minimum 2-3 years experience in related positions</li><li>Intermediate level of experience with productivity tools, such as Microsoft Office</li><li>Ability to handle multiple tasks and duties simultaneously</li><li>Independently motivated, with the ability to take on tasks and duties without immediate direction</li><li>Strong communication skills</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>International University (UNITAR) was established in 1997 as the first virtual university in Southeast Asia and among the earliest private universities in the country. It is the first institution in Asia to be awarded a QS 5-Star Rating for the Online Learning category. In alignment with the United Nation&#8217;s Sustainable Development Goals, UNITAR&#8217;s holistic and innovative learning ecosystem provides a comprehensive programme offering for all socio-economic levels whilst developing highly employable and entrepreneurial global citizens.</p><p>It aims to go beyond just providing the learning journey for students in acquiring relevant skill sets, but through their C.A.R.E. &#8212; Collaborative, Adaptive, Reflective, and Entrepreneurial education methodology, UNITAR nurtures its students in developing self-awareness of their talents and abilities, as well inculcating in them the need for social responsibility whilst moulding them to be better citizens of the nation.</p><p>UNITAR&#8217;s programmes are offered in 13 locations, including its main campus in urban Kelana Jaya. It has a total enrolment of over 5,000 students spread within 40 homegrown programmes ranging from the Foundation, Diploma and Bachelor&#8217;s levels to the postgraduate Master&#8217;s and Doctorate&#8217;s. To meet the current needs of the industries, UNITAR also provides over 50 professional certification programmes. With APEL, working professionals can continue their education journey with the option to reduce their programme duration.</p><p>UNITAR takes pride in having committed academics housed in various faculties and schools. The academic verticals comprise of the Faculty of Business &amp; Technology, Faculty of Education &amp; Humanities, the School of Culinary Arts and School of Media, Arts &amp; Design. Its pursuit to offer competitive quality education in both conventional and online teaching modes continues till today, meeting the needs of 21st Century education.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Petaling Jaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/faculty-executive-4544841?jobId=jobstreet-my-job-4544841" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
