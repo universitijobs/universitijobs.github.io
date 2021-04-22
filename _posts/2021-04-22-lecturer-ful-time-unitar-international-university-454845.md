@@ -1,0 +1,21 @@
+---
+title: "UNITAR International University Vacancies Lecturer (Full Time)" 
+category: Jobs 
+date: 2021-04-22 
+excerpt: "UNITAR International University is currently looking for suitable person to fill in the Lecturer (Full Time) which positioned at Petaling Jaya" 
+tags: [Petaling Jaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>UNITAR International University is looking for new potential candidates to fill in for <b>Lecturer (Full Time)</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>We are looking for dynamic academicians to join us in the areas of:</strong></p><p><strong>Marketing</strong></p><p><strong>Early Childhood Education</strong></p><p><strong>Information Technology</strong></p><p><strong>Job Requirements:</strong></p><p>&#8226; Master Degree or Phd in from reputable university in the related field.</p><p>&#8226; Excellent command of both Bahasa Malaysia and English languages;</p><p>&#8226; At least 3 years of relevant teaching experience. Candidate with industrial experience will have an added advantage;</p><p>&#8226; Pleasant personality;</p><p>Please send your application letter together with your passport-sized photo and resume to the following address:</p><p><strong>UNITAR International University</strong></p><p>(Director, Human Resource)</p><p>3-01A, Level 3, Tierra Crest</p><p>Jalan SS6/3, Kelana Jaya</p><p>47301 Petaling Jaya</p><p>Selangor</p><p>Website: www.unitar.my</p><p>recruitment at unitar.my</p><p><strong>Please be advised that only shortlisted applicants will be notified either through email or by phone.</strong></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>International University (UNITAR) was established in 1997 as the first virtual university in Southeast Asia and among the earliest private universities in the country. It is the first institution in Asia to be awarded a QS 5-Star Rating for the Online Learning category. In alignment with the United Nation&#8217;s Sustainable Development Goals, UNITAR&#8217;s holistic and innovative learning ecosystem provides a comprehensive programme offering for all socio-economic levels whilst developing highly employable and entrepreneurial global citizens.</p><p>It aims to go beyond just providing the learning journey for students in acquiring relevant skill sets, but through their C.A.R.E. &#8212; Collaborative, Adaptive, Reflective, and Entrepreneurial education methodology, UNITAR nurtures its students in developing self-awareness of their talents and abilities, as well inculcating in them the need for social responsibility whilst moulding them to be better citizens of the nation.</p><p>UNITAR&#8217;s programmes are offered in 13 locations, including its main campus in urban Kelana Jaya. It has a total enrolment of over 5,000 students spread within 40 homegrown programmes ranging from the Foundation, Diploma and Bachelor&#8217;s levels to the postgraduate Master&#8217;s and Doctorate&#8217;s. To meet the current needs of the industries, UNITAR also provides over 50 professional certification programmes. With APEL, working professionals can continue their education journey with the option to reduce their programme duration.</p><p>UNITAR takes pride in having committed academics housed in various faculties and schools. The academic verticals comprise of the Faculty of Business &amp; Technology, Faculty of Education &amp; Humanities, the School of Culinary Arts and School of Media, Arts &amp; Design. Its pursuit to offer competitive quality education in both conventional and online teaching modes continues till today, meeting the needs of 21st Century education.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Petaling Jaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/lecturer-full-time-4544845?jobId=jobstreet-my-job-4544845" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
