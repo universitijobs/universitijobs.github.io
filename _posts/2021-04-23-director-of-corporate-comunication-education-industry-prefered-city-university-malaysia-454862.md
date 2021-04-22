@@ -1,0 +1,22 @@
+---
+title: "City University Malaysia Vacancies Director of Corporate Communication (Education Industry preferred)" 
+category: Jobs 
+date: 2021-04-23 
+excerpt: "City University Malaysia is currently looking for suitable person to fill in the Director of Corporate Communication (Education Industry preferred) which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>City University Malaysia is looking for new potential candidates to fill in for <b>Director of Corporate Communication (Education Industry preferred)</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>Job responsibilities<br>&#8226; Identify and understand the needs of target audiences and stakeholders<br>&#8226; Develop and nurture a good brand image for the University that will assist in the positioning of the overall marketing strategy and communications<br>&#8226; Develop and implement communication strategy for the corporation that builds and maintains a positive corporate brand<br>&#8226; Oversee corporate communications and branding in various online and print platforms such as LinkedIn, Twitter, Facebook and industry magazine<br>&#8226; Oversee the development and maintenance of the corporate website including methods to deliver message, ease of navigation and clarity of information, ensure that all content is current and relevant<br>&#8226; Provide consistent and timely information to employees through various communication programs<br>&#8226; Act as corporate spokesman and respond to members of the medica in a timely manner, composes and distributes press releases as needed<br>&#8226; Develop and maintain a positive professional relationship with various members of the media<br>&#8226; Assist executive leadership in developing presentation, speeches and other important corporate messages<br>&#8226; Provide suggestion concerning graphics, clarity, distribution, speeches and press release to Finance and Accounting Department for preparation of corporate annual report.<br>&#8226; Develop, implement and adhere to communication budget<br>&#8226; Develop, composes, distribute, and implement policies to enhance the efficiency of the communication department and to further develop the building and maintaining a positive corporate brand</div><div><br>Job Requirement<br>&#8226; Degree /Masters in Corporate Communication/PR/Broadcasting/Journalism or equivalent<br>&#8226; Possess at least 5-10 years of similar experience, preferably from education industry.<br>&#8226; Good communication skills both written and spoken in English Language and Bahasa Malaysia. Ability to speak in a third language will be an added advantage<br>&#8226; Possess good networking particularly with the media and government agencies<br>&#8226; Able to work in a fast-paced environment and multi-skill<br>&#8226; Have excellent time management, communications, decision-making, presentation, human relations and organization skills.<br>&#8226; Analytical ability, creative problem solving ability, perseverance, a team player with ability to manage as well as motivate a team of Corporate Communication and Multimedia/design professionals</div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	City University Malaysia is the gateway to a bright future for individuals who wish to acquire knowledge and unleash their potential to excel in the field of Science and Technology. We are making significant contributions to the development on our knowledge capital towards a sustainable future of the nation and the region. We are committed to be one of the leading centers of excellence in higher education and to be internationally recognized.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/director-of-corporate-communication-education-industry-preferred-4544862?jobId=jobstreet-my-job-4544862" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
