@@ -1,0 +1,21 @@
+---
+title: "RCSI & UCD MALAYSIA CAMPUS (formerly Penang Medical College) Vacancies Lecturer/Senior Lecturer in Family Medicine" 
+category: Jobs 
+date: 2021-05-01 
+excerpt: "RCSI & UCD MALAYSIA CAMPUS (formerly Penang Medical College) is currently looking for suitable person to fill in the Lecturer/Senior Lecturer in Family Medicine which positioned at George Town" 
+tags: [George Town] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>RCSI & UCD MALAYSIA CAMPUS (formerly Penang Medical College) is looking for new potential candidates to fill in for <b>Lecturer/Senior Lecturer in Family Medicine</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p>You will at all times , observe and carry out faithfully and conscientiously all duties and responsibilities that are assigned to you by your superior, and observe all discretion with regard to the information you acquire during your employment with the Company, and thereafter if you leave its service.</p><p>Job responsibilities :</p><ul><li>To carry out teaching, administration and research, within the Department of Family Medicine.</li><li>To undertake the teaching of Family Medicine and other related subjects to students of RUMC, at undergraduate and postgraduate level in areas allocated by the Head of Department and reviewed from time to time by the Head of Department.</li><li>To assist in the running of existing and future programmes for undergraduate, postgraduate and research at RUMC under the general direction of the Head of Department.</li><li>To supervise or assist with supervision of students in all academic matters and provide pastoral care and support to students.</li><li>To contribute to the development, planning and implementation of a high quality curriculum.</li><li>To assist in the development of learning materials, preparing schemes of work and maintaining records to monitor student progress, achievement and attendance.</li><li>To participate in the development, administration and marking of examinations and other assessments.</li><li>To participate in the administration of the department's programmes of study and other activities as requested.</li><li>To carry out research and produce publications, or other research outputs and participate in departmental and faculty seminars aimed at sharing research outcomes and building interdisciplinary collaboration within and outside the department.</li><li>To maintain own continuing professional development.</li><li>To discharge any other duties, responsibilities and assignments for the benefit of RUMC from time to time not specifically mentioned here as directed by the Management</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>More than 20 years of excellence in medical education!Owned by Royal College of Surgeons in Ireland (RCSI) and University College Dublin (UCD).&#160;RCSI &amp; UCD Malaysia Campus (formerly known as Penang Medical College) was established in 1996, in collaboration with the Royal College of Surgeons in Ireland (RCSI)&#160;founded in 1784 and the University College Dublin (UCD) founded in 1856. Both RCSI and UCD are colleges of the National University of Ireland (NUI)&#160;a federal university comprising four Constituent Universities, four Recognised Colleges and three Colleges of a Constituent University.&#160;VISIONTo be a health &amp; well-being focussed, globally recognised, education &amp; research centre of the highest quality.&#160;MISSIONTo contribute to patients and society through excellence in education, learning, and research and to benefit healthcare in Malaysia and the surrounding region.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in George Town. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/lecturer-senior-lecturer-in-family-medicine-4537895?jobId=jobstreet-my-job-4537895" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
