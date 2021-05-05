@@ -1,0 +1,24 @@
+---
+title: "Sunway College Vacancies Instructional Designer Lead" 
+category: Jobs 
+date: 2021-05-05 
+excerpt: "Sunway College is currently looking for suitable person to fill in the Instructional Designer Lead which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Sunway College is looking for new potential candidates to fill in for <b>Instructional Designer Lead</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><div>The incumbent will lead the content and instructional development team, supervise and provide support to staff and students on instructions, training, and resources in order to facilitate effective use of technology in the classroom and on the LMS (Learning Management System). The incumbent will also be leading the coordination of technology-related activities, including trouble-shooting e-learning related development and deployment issues, and address observed and reported issues.</div><div><strong>Main responsibilities:</strong></div><ul><li>Supervise and provide support in the development of instructions, alignments of learning outcomes and assist in trainings of support staff for functions in the LMS(s) to meet instructional goals.</li><li>Contribute to the review and improvement of services and programmes managed by Sunway TES and collaborating partners.</li><li>Coordinate procurement and integration of systems including assessment of needs, sources of information on trends, research and applications related to use of e-learning technology for programmes managed by Sunway TES.</li><li>Lead content and instructions development team on curriculum mapping to assessment criterion, provide guidance on content acquisition and development.</li><li>Oversee development of prototypes, review post-production and integration of embedded content and advise on the instructional enhancement of interactive elements.</li><li>Assess enhancement needs related to Instructional practices and make recommendations for the development and implementation to academic support staff, tech team members and students.</li><li>Evaluate and make recommendations in the selection, ordering, receiving, and installing new equipment and software including tools and applications for the administration of eLearning.</li></ul><div><strong>Requirements:</strong></div><ul><li>Minimum a Bachelor&#8217;s Degree, preferably in Education supplemented by specialised courses related to educational technology or multi-media production.</li><li>At least 3-5 years of working experience in the related field is required for this position.</li><li>Minimum 3 years of experience in handling courses on LMS.</li><li>Possess advanced skills in statistical or similar software used in data analysis like SPSS, website design, program editing, video technology, web conferencing and other multimedia.</li><li>Thorough understanding of learning styles and able to interact with academic staff, students and partners.</li><li>Excellent command of English, both oral and written.</li><li>Possess strong interpersonal skills and ability to work independently.</li><li>Strong proficiency in Excel and PowerPoint and instructional development tools.</li></ul><div>We thank all applicants for expressing their interest in this vacancy. Please note that only shortlisted applicants will be notified.</div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	A subsidiary of the Sunway Education Group which is owned and governed by the Jeffrey Cheah Foundation, Sunway College currently offers internationally recognised pre-university, Australian twinning degree and MBA programmes as well as professional accounting programmes.</div>
+<div>
+	In view of the overwhelming response and consistently high enrolment of students into our pre-university programmes, we are now seeking expressions of interest and applications from suitably qualified, dynamic and self-driven candidates who can effectively contribute to the advancement of our tradition of excellence.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/instructional-designer-lead-4557956?jobId=jobstreet-my-job-4557956" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
