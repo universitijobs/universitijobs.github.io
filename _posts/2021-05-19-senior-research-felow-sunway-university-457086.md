@@ -1,0 +1,26 @@
+---
+title: "Sunway University Vacancies Senior Research Fellow" 
+category: Jobs 
+date: 2021-05-19 
+excerpt: "Sunway University is currently looking for suitable person to fill in the Senior Research Fellow which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Sunway University is looking for new potential candidates to fill in for <b>Senior Research Fellow</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>A position as Senior Research Fellow is available at the Centre for Virus and Vaccine Research (CVVR), School of Medical and Life Sciences, Sunway University.<div><br>Background and role</div>The CVVR is focusing on projects to develop antivirals and vaccines against viral pathogens. The objectives are to develop multi-epitope peptide vaccines, DNA and recombinant protein-based vaccines against Dengue viruses, Enteroviruses, Influenza and SARS-CoV-2 viruses. Delivery by using nanoparticles as potential carriers is being investigated.- To design research projects in consultation with the line manager. Research expertise with virus like particles, expression of recombinat proteins, flow cytometry and Elispot techniques and nanoparticle delivery of vaccines.<div>- To execute research projects by conducting experiments in the laboratory and in animal facilities,</div>- To apply for internal and external research grants,<div>- Preparation and submitting research manuscripts to high impact and preferably Q1 Scopus-rated journals.</div>- Assist in administration duties such as booking of meeting rooms for weekly lab meetings, ordering of lab consumables, co-ordinating workshops and invited lectures.<div>- Arranging transport charges to import virus strains or tissue culture cells.</div>- Co-supervise final year BSc(Hons) students, MSc and PhD students in designing experiments that the postdoctoral research fellow has expertise in, co-supervising lab research activities.Education level/field of training<br>Applicants must have a PhD degree in Immunology, Vaccinology or Molecular Microbiology. Prefer applicants to have research skills working with adaptive immune cells and use of murine models to study vaccine responses. Experience with viral like particles and nanoparticles as delivery vehicles in oral/intranasal immunization is highly desirable.Qualifications:<br>-&#160;&#160;&#160; PhD in Immunology, Vaccinology or Molecular Microbiology.<br>-&#160;&#160;&#160; Research experience in cell culture work and immunology methods, especially flow cytometry, ELISA and ELISPOT.<br>-&#160;&#160;&#160; Experience in molecular cloning of antigens, protein extraction, purification and characterization, Western blotting, SDS-PAGE, protein-protein interactions.<br>-&#160;&#160;&#160; Experience in working with murine model.<br>-&#160;&#160;&#160; Experience in bioinformatic analysis of high-throughput data and statistics will be preferred.<br>-&#160;&#160;&#160; Good presentation skills and experience in writing high-impact scientific papers.<br>-&#160;&#160;&#160; Successful in attracting research grants as a team member.<div><br>Personal qualities<br>-&#160;&#160;&#160; Structured and responsible.<br>-&#160;&#160;&#160; Good collaboration and organizational skills.<br>-&#160;&#160;&#160; Capability to work both independently and as a team player</div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>
+<div>
+			Sunway University is one of Malaysia&#8217;s leading private universities. It has received the top 5-star ratings for its teaching, facilities and graduate employability by the international university rating organization &#8220;QS&#8221;. It has also received the 5-star (&#8220;excellent&#8221;) rating three times in a row in the national university quality assessment exercise SETARA. Sunway University is owned by the Jeffrey Cheah Foundation and is a not-for-profit institution. The University occupies a state-of-the-art campus opened in 2015 at the heart of Sunway Resort City, linked by canopy level walkways to all of the amenities of the Sunway locality including the Sunway Lagoon Theme Park and the Sunway Pyramid Shopping Mall. The University has experienced strong annual growth in recent years and is rapidly developing its academic programmes and research. The University has strong collaborations with leading institutions Worldwide and offers dual degrees with Lancaster University, UK, a global top 1% institution. [University licence no.: DU025(B)].</div>
+</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/senior-research-fellow-4570086?jobId=jobstreet-my-job-4570086" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
