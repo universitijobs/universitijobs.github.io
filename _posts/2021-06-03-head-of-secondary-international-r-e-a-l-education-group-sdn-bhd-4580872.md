@@ -1,0 +1,21 @@
+---
+title: "R.E.A.L Education Group Sdn Bhd Vacancies Head of Secondary (International)" 
+category: Jobs 
+date: 2021-06-03 
+excerpt: "R.E.A.L Education Group Sdn Bhd is currently looking for suitable person to fill in the Head of Secondary (International) which positioned at Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>R.E.A.L Education Group Sdn Bhd is looking for new potential candidates to fill in for <b>Head of Secondary (International)</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Responsibilities:</strong></p><p><strong>General Duties</strong></p><ul><li>To be responsible for all aspects of the day-to-day management of the School and to administer and supervise systems and routines to ensure operational efficiency.</li><li>To delegate duties to Key Academic Staff and to develop an effective partnership, providing supervision and support.</li><li>To ensure that the operation of the School reflects R.E.A.L philosophy and to ensure that the school's mission is implemented.</li><li>Ensure the environment of the school is conducive which includes timely maintenance of the facility and classroom; notice boards are updated with latest and meaningful information; student work are properly displayed.</li><li>Ensure health and safety of the school students, staff and visitors.</li></ul><p><strong>Education Standard and Student Welfare</strong></p><ul><li>To maintain an overview of the curriculum to ensure effective implementation and ensure the highest possible quality of education for students.</li><li>To promote a positive and professional learning culture.</li><li>Active development and fostering of positive relationships with students.</li><li>Responsibility to encourage high morale and discipline standards.</li></ul><p><strong>Customer Management</strong></p><ul><li>Ensure regular reporting to parents</li><li>Handle complaints in professional manner and ensure issues are resolved satisfactorily.</li></ul><p><strong>Staff Management</strong></p><ul><li>Manage the manpower allocation of academic staff which includes hiring of good teachers, managing poor performers and set high standard of education.</li><li>Ensure key supervisory positions are filled by competent and passionate people.</li><li>Monitor language proficiency of teachers to ensure all can at least communicate in English language to maintain our high standard as a private school.</li><li>Identify competency gaps of key academic staff and teachers and provide appropriate training and development programme to close the gap.</li><li>Maintaining open communication with staff through staff notices and keep the Academic Head well informed about the school matters.</li></ul><p><strong>Requirements:</strong></p><ul><li>Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree in Education/Teaching or equivalent.</li><li>To be based in R.E.A.L Schools <strong>Johor Bahru Campus.</strong></li><li>At least <strong>8 years of working experience </strong>in similar capacity.</li><li>In-depth understanding on private/international school capacity.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>The journey of R.E.A.L Education began 30 years ago with its first establishment in Cheras, Kuala Lumpur. We engage our students into a transformative journey that produces results. These results do not only encompass academic achievements but are balanced with extracurricular excellence and honourable character.</p><p>For more details, please check out http://www.real.edu.my/</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/head-of-secondary-international-4580872?jobId=jobstreet-my-job-4580872" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
