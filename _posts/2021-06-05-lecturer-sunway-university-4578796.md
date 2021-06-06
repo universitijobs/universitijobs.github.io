@@ -1,0 +1,26 @@
+---
+title: "Sunway University Vacancies Lecturer" 
+category: Jobs 
+date: 2021-06-05 
+excerpt: "Sunway University is currently looking for suitable person to fill in the Lecturer which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Sunway University is looking for new potential candidates to fill in for <b>Lecturer</b> position. If you currently looking for new education sector job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>A position as Lecturer is available at the Centre for Virus and Vaccine Research (CVVR), School of Medical and Life Sciences, Sunway University.<strong>Background and Role</strong><div>The CVVR is focusing on projects to develop antivirals and vaccines against viral pathogens. The objectives are to develop multi-epitope peptide vaccines, DNA and recombinant protein-based vaccines against Dengue viruses, Enteroviruses, Influenza and SARS-CoV-2 viruses. Delivery by using nanoparticles as potential carriers is being investigared.</div><div><strong>Qualification</strong></div>Candidate must possess a PhD degree in Biomedical Science/Life Science/Immunology, Virology,Pharmacology,Pharmaceutical Science. Prefer candidates with expertise in Pharmacology/Toxicology.<div><strong>Teaching (50% of position)</strong></div><div>Must have expertise in Pharmacology/Toxicology and Human Physiology. He or she will be assigned to design, plan and deliver lectures, tutorials, practicals, set examination questions and invigilate examinations and contribute to subject and program boards. He/she must have some experience in conducting lectures, contribute to student's learning experience at the undergraduate level. Assist the Department of Biological Sciences in Open day, marketing and outreach events, support and assist members of the department in ensuring smooth running of the department and teaching programmes.</div><strong>Research (50% of position)</strong><div>- To be able to conduct research in Pharmacokinetic, pharmacodynamic and biodistribution&#160; following oral or intranasal administration of nanoparticles containing peptide drugs. Knowledge of moleuclar cloning, protein expression, bioinformatics,&#160; immunology, virology and mouse models will be useful.</div>- To design research projects in consultation with the line manager, creative to develop, plan, execute and publish research relevant to projects undertaken at the CVVR.<div>- To execute research projects by conducting experiments in the laboratory and in animal facilities.</div>- To apply for internal and external research grants.<div>- To prepare and submit research manuscripts to preferably Q1 Scopus-rated journals.</div>- Provide supervision/co-supervision of research activities undertaken by BSc(Hons), MSc and PhD students.<div>- Assist in administration duties such as internal audit of ISO9001 and Biosafety assessment.</div>- Assist BSc(Hons) and Postgraduate students to process and place orders for consumables, assiting students to apply for biosafety and animal ethics to conduct in vivo animal work and keep laboratory equipments in good working conditions.<div>- Assist final year BSc(Hons) students, MSc and PhD students in providing methodological teaching of specialized techniques such as flow cytometry, Elispot analysis, bioinformatics and animal experimentation.</div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>
+<div>
+			Sunway University is one of Malaysia&#8217;s leading private universities. It has received the top 5-star ratings for its teaching, facilities and graduate employability by the international university rating organization &#8220;QS&#8221;. It has also received the 5-star (&#8220;excellent&#8221;) rating three times in a row in the national university quality assessment exercise SETARA. Sunway University is owned by the Jeffrey Cheah Foundation and is a not-for-profit institution. The University occupies a state-of-the-art campus opened in 2015 at the heart of Sunway Resort City, linked by canopy level walkways to all of the amenities of the Sunway locality including the Sunway Lagoon Theme Park and the Sunway Pyramid Shopping Mall. The University has experienced strong annual growth in recent years and is rapidly developing its academic programmes and research. The University has strong collaborations with leading institutions Worldwide and offers dual degrees with Lancaster University, UK, a global top 1% institution. [University licence no.: DU025(B)].</div>
+</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream education sector job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/lecturer-4578796?jobId=jobstreet-my-job-4578796" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
